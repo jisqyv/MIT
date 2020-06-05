@@ -19,9 +19,6 @@ sections:
       - title: Get Started!
         url: '#page-top'
         class: btn-light
-		
-
-
 
   - type: services.html
     section_id: services
