@@ -23,11 +23,6 @@ sections:
 
 
 
-  - type: servicesnew.html
-	section_id: servicesnew
-    background_style: bg-primary
-
-
   - type: services.html
     section_id: services
     #background_style: bg-info
