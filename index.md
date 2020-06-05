@@ -21,6 +21,9 @@ sections:
         class: btn-light
 		
 type: servicesnew.html
+section_id: servicesnew
+    #background_style: bg-info
+
 
   - type: services.html
     section_id: services
