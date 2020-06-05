@@ -20,8 +20,11 @@ sections:
         url: '#page-top'
         class: btn-light
 		
-	-type: servicesnew.html
-section_id: servicesnew
+
+
+
+  - type: servicesnew.html
+	section_id: servicesnew
     background_style: bg-primary
 
 
