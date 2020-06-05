@@ -1,10 +1,9 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
+  title: SEE THE BIG PICTURE
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    Security benchmarking and ROI analytics without own-data disclosure
   action: # action button is optional
     label: Find Out More
     url: '#about'
