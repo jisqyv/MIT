@@ -3,7 +3,7 @@ layout: home
 header:
   title: SEE THE BIG PICTURE
   text: >
-    Security benchmarking and ROI analytics without own-data disclosure
+    Cybersecurity benchmarking and ROI analytics without own-data disclosure
   action: # action button is optional
     label: Find Out More
     url: '#about'
