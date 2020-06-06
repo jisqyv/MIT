@@ -28,7 +28,7 @@ sections:
       - title: sample
         text: Our templates are updated regularly so they don't break.
 		image: assets/img/services/service-1.jpg
-        url: '#'
+
 
  
 
