@@ -27,7 +27,7 @@ sections:
     services:
       - title: Use case: Benchmarking (CISO)
         text1: Our templates are updated regularly so they don't break.
-        text2: Our templates are updated regularly so they don't break.
+        text2: vhjgjhgjhgjhgjhghjhjkh.
 
         icon: fa-gem text-info
         url: https://startbootstrap.com/
