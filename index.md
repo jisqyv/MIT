@@ -23,7 +23,7 @@ sections:
   - type: services.html
     section_id: services
     #background_style: bg-info
-    title: Use case: Benchmarking (CISO
+    title: Use case: Benchmarking (CISO)
     services:
       - title: Sturdy Templates
         text: Our templates are updated regularly so they don't break.
