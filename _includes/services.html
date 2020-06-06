@@ -5,11 +5,11 @@
     <div class="row row-cols-2 ">
       <!-- {#% assign cols = section.services.size | at_most: 4 %#} -->
       {% assign cols = section.services.size %}
-      {% if cols > 4 %}
-        {% assign cols = 4 %}
+      {% if cols > 2 %}
+        {% assign cols = 2 %}
       {% endif %}
 
-      {% assign colsL = 12 | divided_by: cols %}
+      {% assign colsL = 6 | divided_by: cols %}
       {% assign colsM = colsL | times: 2 %}
 
       {% for service in section.services %}
