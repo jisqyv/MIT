@@ -13,11 +13,12 @@
       {% assign colsM = colsL | times: 2 %}
 
       {% for service in section.services %}
-      <div class="col-lg-{{ colsL }} col-md-{{ colsM }} text-center">
-        <div class="mt-5">
+      <div class="col">
+        
           <i class="fas fa-4x {{ service.icon }} text-primary mb-4"></i>
+		  <div class="col">
           <h3 class="h4 mb-2">{{ service.title }}</h3>
-          <div class="text-muted mb-0">
+          <div class="col">
             {{ service.text | markdownify }}
             {% if service.url %}
               <a href="{{ service.url }}"><i class="fas fa-link"></i></a>
