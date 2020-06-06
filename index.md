@@ -25,8 +25,10 @@ sections:
     #background_style: bg-info
     title: At Your Service
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
+      - title: Use case: Benchmarking (CISO)
+        text1: Our templates are updated regularly so they don't break.
+        text2: Our templates are updated regularly so they don't break.
+
         icon: fa-gem text-info
         url: https://startbootstrap.com/
       - title: Ready to Ship
