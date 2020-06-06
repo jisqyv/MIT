@@ -26,13 +26,13 @@ sections:
     title: At Your Service
     services:
       - title: Use case Benchmarking CISO
-        text1: Our templates are updated regularly so they don't break.
-        text2: vhjgjhgjhgjhgjhghjhjkh.
+        text1: How does our security posture compare to other firms in the sector? 
+        text2: Where are our stronger and weaker points relative to our peers? 
         icon: fa-gem text-info
         url: https://startbootstrap.com/
-      - title: Use case Benchmarking CISO
-        text1: Our templates are updated regularly so they don't break.
-        text2: vhjgjhgjhgjhgjhghjhjkh.
+      - title: Return on investment CISO, CFO
+        text1: Which security investments will have the largest return on investment? 
+        text2: Given our current security stance, which 
         icon: fa-gem text-info
         url: https://startbootstrap.com/
       
