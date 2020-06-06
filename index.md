@@ -27,28 +27,22 @@ sections:
     services:
       - title: Sturdy Templates
         text: Our templates are updated regularly so they don't break.
-		image: assets/img/members/person1.jpg
         icon: fa-gem text-info
         url: https://startbootstrap.com/
       - title: Ready to Ship
         text: You can use this theme as is, or you can make changes!
-		image: assets/img/members/person1.jpg
         icon: fa-paper-plane
       - title: Up to Date
         text: We update dependencies to keep things fresh.
-		image: assets/img/members/person1.jpg
         icon: fa-laptop-code
       - title: Made with Love
         text: You have to make your websites with love these days!
-		image: assets/img/members/person1.jpg
         icon: fa-heart
       - title: Other 1
         text: Some not-so long text here.
-		image: assets/img/members/person1.jpg
         icon: fa-heart
       - title: Other 2
         text: Some not-so long text here.
-		image: assets/img/members/person1.jpg
         icon: fa-heart
 
   - type: portfolio.html

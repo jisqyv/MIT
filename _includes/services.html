@@ -2,7 +2,7 @@
   <div class="container">
     <h2 class="text-center mt-0">{{ section.title }}</h2>
     <hr class="divider my-4">
-    <div class="row justify-content-center">
+    <div class="row row-cols-2 ">
       <!-- {#% assign cols = section.services.size | at_most: 4 %#} -->
       {% assign cols = section.services.size %}
       {% if cols > 4 %}
@@ -14,7 +14,6 @@
 
       {% for service in section.services %}
       <div class="col">
-        <img src="{{ service.image }}" alt="{{ service.title }}">
           <i class="fas fa-4x {{ service.icon }} text-primary mb-4"></i>
 		  <div class="col">
           <h3 class="h4 mb-2">{{ service.title }}</h3>
