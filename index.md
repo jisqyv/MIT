@@ -27,6 +27,9 @@ sections:
     services:
       - title: sample
         text: Our templates are updated regularly so they don't break.
+		# the image is located in:
+        # img/
+        # img/
         icon: bg-mastheadhero.jpg
         url: '#'
 
