@@ -36,15 +36,19 @@ sections:
         icon: fa-paper-plane
       - title: Up to Date
         text: We update dependencies to keep things fresh.
+		image: assets/img/members/person1.jpg
         icon: fa-laptop-code
       - title: Made with Love
         text: You have to make your websites with love these days!
+		image: assets/img/members/person1.jpg
         icon: fa-heart
       - title: Other 1
         text: Some not-so long text here.
+		image: assets/img/members/person1.jpg
         icon: fa-heart
       - title: Other 2
         text: Some not-so long text here.
+		image: assets/img/members/person1.jpg
         icon: fa-heart
 
   - type: portfolio.html
