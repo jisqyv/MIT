@@ -25,7 +25,7 @@ sections:
     #background_style: bg-info
     title: At Your Service
     services:
-      - title: Use case Benchmarking (CISO_
+      - title: Use case Benchmarking (CISO)
         text1: How does our security posture compare to other firms in the sector? 
         text2: Where are our stronger and weaker points relative to our peers? 
         icon: fa-gem text-info
