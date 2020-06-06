@@ -27,10 +27,7 @@ sections:
     services:
       - title: sample
         text: Our templates are updated regularly so they don't break.
-		# the images are located in:
-        # img/
-        icon: bg-mastheadhero.jpg
-        url: '#'
+	
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
