@@ -10122,7 +10122,7 @@ header.masthead h1 {
   
  .serviceshomecol::after{
  box-sizing:border-box;
- margin:5px;}
+ margin:5px; !important}
  
 .serviceshome {
     border: 1px solid #a82d41 !important;
