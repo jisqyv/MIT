@@ -10120,12 +10120,10 @@ header.masthead h1 {
 .text-white-75 {
   color: #fff;}
   
- .serviceshomecol::after{
- box-sizing:border-box;
- margin:5px; !important}
  
-.serviceshome {
+divider.serviceshome {
     border: 1px solid #a82d41 !important;
-    padding: 50px;
+    padding: 30px;
+	margin:-15px;
 }
  
