@@ -1,7 +1,9 @@
 <section class="page-section {{ section.background_style }}" id="{{ section.section_id }}">
   <div class="container">
-  <div class="row">
+  <div class="row row-cols-2">
+  {% for serv in section.services %}
     <div class="col">
+	<img class="img-fluid" src="assets/img/{{ serv.icon }}" alt="">
     1 of 2
     </div>
     <div class="col">
