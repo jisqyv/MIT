@@ -22,14 +22,11 @@ sections:
 
   - type: services.html
     section_id: services
-    #background_style: bg-info
+    background_style: bg-info
     title: Left Services
     services:
       - title: sample
         text: Our templates are updated regularly so they don't break.
-	# the images are located in:
-        # img/services
-        # img/services
         icon: service-1.jpg
         url: '#'
 
