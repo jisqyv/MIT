@@ -23,12 +23,12 @@ sections:
   - type: services.html
     section_id: services
     #background_style: bg-info
-    title: At Your Service
+    title: Left Services
     services:
-      - title: Sturdy Templates
+      - title: sample
         text: Our templates are updated regularly so they don't break.
-        icon: fa-gem text-info
-        url: https://startbootstrap.com/
+        icon: bg-mastheadhero.jpg
+        url: '#'
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
