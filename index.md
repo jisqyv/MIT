@@ -21,13 +21,15 @@ sections:
         class: btn-light
 
   - type: services.html
-    section_id: services
+    section_id: ser
     background_style: bg-info
     title: Left Services
     services:
       - title: sample
         text: Our templates are updated regularly so they don't break.
-        icon: service-1.jpg
+		image: assets/img/services/service-1.jpg
+        url: '#'
+
  
 
 
