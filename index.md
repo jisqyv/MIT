@@ -25,7 +25,7 @@ sections:
     #background_style: bg-info
     title: At Your Service
     services:
-      - title: Use case: Benchmarking (CISO)
+      - title: Use case Benchmarking CISO
         text1: Our templates are updated regularly so they don't break.
         text2: vhjgjhgjhgjhgjhghjhjkh.
 
