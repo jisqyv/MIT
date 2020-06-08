@@ -1,12 +1,8 @@
 ---
 layout: page
 header:
-  title: SEE THE BIG PICTURE
-  text: >
-    Cybersecurity benchmarking and ROI analytics without own-data disclosure
-  action: # action button is optional
-    label: Find Out More
-    url: '#about'
+  title: Products
+  
 
 
 sections:
@@ -20,21 +16,30 @@ sections:
         url: '#page-top'
         class: btn-light
 
-  - type: services.html
-    section_id: services
+ - type: products.html
+    section_id: products
     #background_style: bg-info
     title: At Your Service
     services:
-      - title: Use case Benchmarking (CISO)
-        text1: How does our security posture compare to other firms in the sector? 
-        text2: Where are our stronger and weaker points relative to our peers? 
-   
+      - title: Sturdy Templates
+        text: Our templates are updated regularly so they don't break.
+        icon: fa-gem text-info
         url: https://startbootstrap.com/
-      - title: Return on investment (CISO, CFO)
-        text1: Which security investments will have the largest return on investment? 
-        text2: Given our current security stance, which 
-        
-        url: https://startbootstrap.com/
+      - title: Ready to Ship
+        text: You can use this theme as is, or you can make changes!
+        icon: fa-paper-plane
+      - title: Up to Date
+        text: We update dependencies to keep things fresh.
+        icon: fa-laptop-code
+      - title: Made with Love
+        text: You have to make your websites with love these days!
+        icon: fa-heart
+      - title: Other 1
+        text: Some not-so long text here.
+        icon: fa-heart
+      - title: Other 2
+        text: Some not-so long text here.
+        icon: fa-heart
       
 
   - type: portfolio.html
