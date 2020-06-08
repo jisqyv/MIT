@@ -22,10 +22,10 @@ sections:
         class: btn-light
 
   - type: products.html
-    section_id: services
+    section_id: product
     #background_style: bg-info
     title: At Your Service
-    services:
+    product:
       - title: Sturdy Templates
         text: Our templates are updated regularly so they don't break.
         icon: fa-gem text-info
