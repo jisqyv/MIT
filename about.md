@@ -12,7 +12,7 @@ sections:
     background_style: bg-primary
     title: MIT origins
     text: Secure data aggregation and computation. SMPC. 
-    actions:
+
     
 
   - type: services.html
