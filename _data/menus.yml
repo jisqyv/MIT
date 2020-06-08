@@ -4,10 +4,10 @@
 # run. So please, fill in any custom menu entry here.
 header:
 - title: About
-  url: /about.md
+  url: /about
 - title: Products
-  url: /#services
+  url: /products
 - title: Technology
-  url: /#members
+  url: /technology
 - title: Participate
-  url: /#timeline
+  url: /participate
