@@ -66,7 +66,6 @@ sections:
         text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
         icon: 6.jpg
         url: '#'
-		
 
   - type: aside.html
     section_id: aside
