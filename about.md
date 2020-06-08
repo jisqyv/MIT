@@ -35,39 +35,6 @@ sections:
         text2: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 
-  - type: portfolio.html
-    # this section has always ID 'portfolio'
-    #section_id: portfolio
-    #background_style: bg-dark
-    projects:
-      - title: Product 1
-        text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        # the images are located in:
-        # img/portfolio/fullsize
-        # img/portfolio/thumbnails
-        icon: 1.jpg
-        url: '#'
-      - title: Product 2
-        text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        icon: 2.jpg
-        url: '#'
-      - title: Product 3
-        text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        icon: 3.jpg
-        url: '#'
-      - title: Product 4
-        text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        icon: 4.jpg
-        url: '#'
-      - title: Product 5
-        text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        icon: 5.jpg
-        url: '#'
-      - title: Product 6
-        text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        icon: 6.jpg
-        url: '#'
-
   - type: aside.html
     section_id: aside
     title: Participate in a computation 
