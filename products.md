@@ -2,22 +2,27 @@
 layout: page
 header:
   title: Products
-  
+  text: >
+    Start Bootstrap can help you build better websites using the Bootstrap
+    framework! Just download a theme and start customizing, no strings attached!
+  action: # action button is optional
+    label: Find Out More
+    url: '#about'
 
 
 sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: What We Do
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    title: Products
+    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
     actions:
       - title: Get Started!
         url: '#page-top'
         class: btn-light
 
- - type: products.html
-    section_id: products
+  - type: products.html
+    section_id: services
     #background_style: bg-info
     title: At Your Service
     services:
@@ -40,40 +45,8 @@ sections:
       - title: Other 2
         text: Some not-so long text here.
         icon: fa-heart
-      
 
-  - type: portfolio.html
-    # this section has always ID 'portfolio'
-    #section_id: portfolio
-    #background_style: bg-dark
-    projects:
-      - title: Project 1
-        text: This is a very short project description.
-        # the images are located in:
-        # img/portfolio/fullsize
-        # img/portfolio/thumbnails
-        icon: 1.jpg
-        url: '#'
-      - title: Project 2
-        text: This is a very short project description.
-        icon: 2.jpg
-        url: '#'
-      - title: Project 3
-        text: This is a very short project description.
-        icon: 3.jpg
-        url: '#'
-      - title: Project 4
-        text: This is a very short project description.
-        icon: 4.jpg
-        url: '#'
-      - title: Project 5
-        text: This is a very short project description.
-        icon: 5.jpg
-        url: '#'
-      - title: Project 6
-        text: This is a very short project description.
-        icon: 6.jpg
-        url: '#'
+
 
   - type: aside.html
     section_id: aside
