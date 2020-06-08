@@ -25,12 +25,11 @@ sections:
     #background_style: bg-info
     title: At Your Service
     services:
-      - title: Use case Benchmarking (CISO)
-        text1: How does our security posture compare to other firms in the sector? 
-        text2: Where are our stronger and weaker points relative to our peers? 
-   
-        url: https://startbootstrap.com/
-      - title: Return on investment (CISO, CFO)
+      - title: 'Step: Evaluate your security posture'
+        text1: How to benchmark your own security posture using our method
+        text2: ' ' 
+
+      - title: 'Step: Gather our losses and related control failures'
         text1: Which security investments will have the largest return on investment? 
         text2: Given our current security stance, which 
         
