@@ -78,8 +78,6 @@ sections:
         url: /about
         class: btn-light
 
-
-
   - type: contact.html
     section_id: contacts
     title: Let's Get In Touch!
