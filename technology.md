@@ -14,11 +14,11 @@ sections:
     section_id: about
     background_style: bg-primary
     title: Technology
-    text: Secure & private data aggregation and computation using cryptographic tools built by MIT experts. 
+    text: 'Secure & private data aggregation and computation using cryptographic tools built by MIT experts. 
 	
 	No data disclosure required: Safely encrypt your data and keep it locked throughout the whole process. We cannot see your data, and no one else can either. Our process has been designed from the ground up with security and privacy by cryptographers, risk specialists, and cybersecurity experts. 
 	
-	Evaluate our code and encrypt your own data. 
+	Evaluate our code and encrypt your own data. '
 
     actions:
       - title: Get Started!
