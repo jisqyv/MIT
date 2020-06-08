@@ -25,17 +25,15 @@ sections:
     #background_style: bg-info
     title: At Your Service
     services:
-      - title: Use case Benchmarking (CISO)
-        text1: How does our security posture compare to other firms in the sector? 
-        text2: Where are our stronger and weaker points relative to our peers? 
+      - title: People
+        text1: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+        text2: Lorem ipsum dolor sit amet, consectetur adipiscing elit
    
-        url: https://startbootstrap.com/
-      - title: Return on investment (CISO, CFO)
-        text1: Which security investments will have the largest return on investment? 
-        text2: Given our current security stance, which 
-        
-        url: https://startbootstrap.com/
-      
+
+      - title: Academic Research
+        text1: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+        text2: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
