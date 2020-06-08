@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: home
 header:
-  title: About
+  title: About US
   text: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+    Start Bootstrap can help you build better websites using the Bootstrap
+    framework! Just download a theme and start customizing, no strings attached!
   action: # action button is optional
-    label: Contact Us
+    label: Find Out More
     url: '#about'
 
 
@@ -14,24 +15,26 @@ sections:
     section_id: about
     background_style: bg-primary
     title: MIT origins
-    text: Secure data aggregation and computation. SMPC. 
-
+    text: SSecure data aggregation and computation. SMPC. 
+    actions:
+      - title: Get Started!
+        url: '#page-top'
+        class: btn-light
 
   - type: services.html
     section_id: services
     #background_style: bg-info
     title: At Your Service
     services:
-      - title: Use case Benchmarking (CISO)
+      - title: People
         text1: How does our security posture compare to other firms in the sector? 
         text2: Where are our stronger and weaker points relative to our peers? 
    
-        url: https://startbootstrap.com/
-      - title: Return on investment (CISO, CFO)
+
+      - title: Academic Research
         text1: Which security investments will have the largest return on investment? 
         text2: Given our current security stance, which 
-        
-        url: https://startbootstrap.com/
+
       
 
   - type: portfolio.html
