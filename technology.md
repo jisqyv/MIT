@@ -30,51 +30,17 @@ sections:
     #background_style: bg-info
     title: At Your Service
     services:
-      - title: Use case Benchmarking (CISO)
-        text1: How does our security posture compare to other firms in the sector? 
-        text2: Where are our stronger and weaker points relative to our peers? 
+      - title: 'Security:'
+        text1: How our encryption and computation process works
+        text2: Video
    
-        url: https://startbootstrap.com/
-      - title: Return on investment (CISO, CFO)
-        text1: Which security investments will have the largest return on investment? 
-        text2: Given our current security stance, which 
+
+      - title: 'Software:'
+        text1: Run locally or online 
+        text2: Examine our code
         
-        url: https://startbootstrap.com/
-      
 
-  - type: portfolio.html
-    # this section has always ID 'portfolio'
-    #section_id: portfolio
-    #background_style: bg-dark
-    projects:
-      - title: Project 1
-        text: This is a very short project description.
-        # the images are located in:
-        # img/portfolio/fullsize
-        # img/portfolio/thumbnails
-        icon: 1.jpg
-        url: '#'
-      - title: Project 2
-        text: This is a very short project description.
-        icon: 2.jpg
-        url: '#'
-      - title: Project 3
-        text: This is a very short project description.
-        icon: 3.jpg
-        url: '#'
-      - title: Project 4
-        text: This is a very short project description.
-        icon: 4.jpg
-        url: '#'
-      - title: Project 5
-        text: This is a very short project description.
-        icon: 5.jpg
-        url: '#'
-      - title: Project 6
-        text: This is a very short project description.
-        icon: 6.jpg
-        url: '#'
-
+     
   - type: aside.html
     section_id: aside
     title: Free Download at Start Bootstrap!
