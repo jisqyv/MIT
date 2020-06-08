@@ -1,7 +1,7 @@
 ---
 layout: page
 header:
-  title: SEE THE BIG PICTURE
+  title: TECHNOLOGY
   text: >
     Cybersecurity benchmarking and ROI analytics without own-data disclosure
   action: # action button is optional
@@ -13,8 +13,13 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: What We Do
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    title: Technology
+    text: Secure & private data aggregation and computation using cryptographic tools built by MIT experts. 
+	
+	No data disclosure required: Safely encrypt your data and keep it locked throughout the whole process. We cannot see your data, and no one else can either. Our process has been designed from the ground up with security and privacy by cryptographers, risk specialists, and cybersecurity experts. 
+	
+	Evaluate our code and encrypt your own data. 
+
     actions:
       - title: Get Started!
         url: '#page-top'
