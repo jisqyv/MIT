@@ -53,19 +53,19 @@ sections:
         text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
         icon: 2.jpg
         url: '#'
-      - title: Product 3
+      - title: Project 3
         text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
         icon: 3.jpg
         url: '#'
-      - title: Product 4
+      - title: Project 4
         text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
         icon: 4.jpg
         url: '#'
-      - title: Product 5
+      - title: Project 5
         text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
         icon: 5.jpg
         url: '#'
-      - title: Product 6
+      - title: Project 6
         text: This is a very short project description.
         icon: 6.jpg
         url: '#'
