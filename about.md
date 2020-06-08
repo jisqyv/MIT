@@ -15,25 +15,23 @@ sections:
     background_style: bg-primary
     title: MIT origins
     text: Secure data aggregation and computation. SMPC. 
-	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    actions:
-      - title: Get Started!
-        url: '#page-top'
-        class: btn-light
+
 
   - type: services.html
     section_id: services
     #background_style: bg-info
     title: At Your Service
     services:
-      - title: People
-        text1: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        text2: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-      - title: Academic research
-        text1: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        text2: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      - title: Use case Benchmarking (CISO)
+        text1: How does our security posture compare to other firms in the sector? 
+        text2: Where are our stronger and weaker points relative to our peers? 
+   
+        url: https://startbootstrap.com/
+      - title: Return on investment (CISO, CFO)
+        text1: Which security investments will have the largest return on investment? 
+        text2: Given our current security stance, which 
+        
+        url: https://startbootstrap.com/
       
 
   - type: portfolio.html
