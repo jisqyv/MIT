@@ -30,44 +30,11 @@ sections:
         text2: ' ' 
 
       - title: 'Step: Gather our losses and related control failures'
-        text1: Which security investments will have the largest return on investment? 
-        text2: Given our current security stance, which 
-        
-        url: https://startbootstrap.com/
+        text1: Learn how to calculate monetary losses for your security events 
+        text2: ' '  
       
 
-  - type: portfolio.html
-    # this section has always ID 'portfolio'
-    #section_id: portfolio
-    #background_style: bg-dark
-    projects:
-      - title: Project 1
-        text: This is a very short project description.
-        # the images are located in:
-        # img/portfolio/fullsize
-        # img/portfolio/thumbnails
-        icon: 1.jpg
-        url: '#'
-      - title: Project 2
-        text: This is a very short project description.
-        icon: 2.jpg
-        url: '#'
-      - title: Project 3
-        text: This is a very short project description.
-        icon: 3.jpg
-        url: '#'
-      - title: Project 4
-        text: This is a very short project description.
-        icon: 4.jpg
-        url: '#'
-      - title: Project 5
-        text: This is a very short project description.
-        icon: 5.jpg
-        url: '#'
-      - title: Project 6
-        text: This is a very short project description.
-        icon: 6.jpg
-        url: '#'
+ 
 
   - type: aside.html
     section_id: aside
