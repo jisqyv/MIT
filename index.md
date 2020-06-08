@@ -72,10 +72,9 @@ sections:
 
   - type: aside.html
     section_id: aside
-    title: Free Download at Start Bootstrap!
+    title: Secure data aggregation and computation. SMPC.
     actions:
-      - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
+      - title: /about
         class: btn-light
 
   - type: members.html
