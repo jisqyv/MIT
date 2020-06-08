@@ -36,15 +36,7 @@ sections:
       - title: Future 
         text: Real-time secure SIEM group notification
         icon: fa-laptop-code text-info
-      - title: Made with Love
-        text: You have to make your websites with love these days!
-        icon: fa-heart text-info
-      - title: Other 1
-        text: Some not-so long text here.
-        icon: fa-heart text-info
-      - title: Other 2
-        text: Some not-so long text here.
-        icon: fa-heart text-info
+     
 
 
 
