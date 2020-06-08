@@ -1,7 +1,7 @@
 ---
 layout: page
 header:
-  title: Participate in our computations
+  title: Participate
   text: >
     Cybersecurity benchmarking and ROI analytics without own-data disclosure
   action: # action button is optional
