@@ -72,7 +72,7 @@ sections:
 
   - type: aside.html
     section_id: aside
-    title: Secure data aggregation and computation. SMPC.
+    title: Participate in a computation 
     actions:
       - title: Learn More About Us
         url: /about
