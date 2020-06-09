@@ -85,13 +85,13 @@ sections:
       Ready to start your next project with us? Give us a call or send us an email
       and we will get back to you as soon as possible!
     actions:
-    - title: +1 (202) 555-014
+    - title: (617) 324-8317
       icon: fa-phone
-    - title: E-Mail
+    - title: scram@mit.edu
       icon: fa-envelope
-      url: mailto:contact@yourwebsite.com
-    - title: Twitter
-      icon: fa-twitter
+      url: mailto:contact@scram@mit.edu
+    - title: Address
+      icon: fa-map-marker-alt
       icon_type: fab
       url: '#'
     - title: Facebook
