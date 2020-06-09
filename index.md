@@ -90,9 +90,9 @@ sections:
     - title: scram@mit.edu
       icon: fa-envelope
       url: mailto:contact@scram@mit.edu
-    - title: Address
-      icon: fa-map-marker-alt
-      icon_type: fab
+    - title: 32 Vassar Street Cambridge, MA 02139 USA
+      icon: fa-map
+
       url: '#'
     - title: Facebook
       icon: fa-facebook
