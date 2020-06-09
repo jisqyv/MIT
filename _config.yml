@@ -1,9 +1,9 @@
 # Site settings
-title: Your Title Here
+title: MIT Secure Cyber Risk Aggregation and Measurement
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/MIT/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-author: Copyright &copy; 2019 - Start Bootstrap
+author: Cybersecurity benchmarking and ROI analytics without own-data disclosure
 lang: en_US
 
 # Build settings
