@@ -93,10 +93,5 @@ sections:
     - title: 32 Vassar Street Cambridge, MA 02139 USA
       icon: fa-map
 
-      url: '#'
-    - title: Facebook
-      icon: fa-facebook
-      icon_type: fab
-      url: '#'
 
 ---
