@@ -28,7 +28,6 @@ sections:
       - title: People
         text1: Lorem ipsum dolor sit amet, consectetur adipiscing elit
         text2: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-   
 
       - title: Academic Research
         text1: Lorem ipsum dolor sit amet, consectetur adipiscing elit
