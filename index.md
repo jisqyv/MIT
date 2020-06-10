@@ -24,7 +24,7 @@ sections:
     section_id: serviceshome
     #background_style: bg-info
     title: At Your Service
-    services:
+    serviceshome:
       - title: Use case Benchmarking (CISO)
         text1: How does our security posture compare to other firms in the sector? 
         text2: Where are our stronger and weaker points relative to our peers? 
