@@ -31,13 +31,11 @@ sections:
     title: At Your Service
     services:
       - title: 'Security:'
-	  	text: Lorem ipsum dolor sit amet, consectetur adipiscing elit
         text1: How our encryption and computation process works
         text2: Video
    
 
       - title: 'Software:'
-	  	text: Lorem ipsum dolor sit amet, consectetur adipiscing elit
         text1: Run locally or online 
         text2: Examine our code
         

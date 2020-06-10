@@ -26,13 +26,13 @@ sections:
     title: At Your Service
     services:
       - title: People
-		text: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+
         text1: Lorem ipsum dolor sit amet, consectetur adipiscing elit
         text2: Lorem ipsum dolor sit amet, consectetur adipiscing elit
    
 
       - title: Academic Research
-	  	text: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+	  
         text1: Lorem ipsum dolor sit amet, consectetur adipiscing elit
         text2: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
