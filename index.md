@@ -32,7 +32,9 @@ sections:
       - title: Return on investment (CISO, CFO)
         text1: Which security investments will have the largest return on investment? 
         text2: Given our current security stance, which 
+        
 
+      
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
