@@ -33,6 +33,8 @@ sections:
       - title: Return on investment (CISO, CFO)
         text1: Which security investments will have the largest return on investment? 
         text2: Given our current security stance, which 
+		text3: 'SCRAM’s return on investment data helps CISOs and CFOs guide security investments toward security controls with the largest real-world monetary losses resulting from successful attacks. Participating firms receive actionable intelligence and rankings detailing aggregated losses by security control that can be used to target specific security investments.
+ 
 
 
   - type: portfolio.html
