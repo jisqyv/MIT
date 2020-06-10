@@ -29,11 +29,12 @@ sections:
         text1: Lorem
         text2: How does our security posture compare to other firms in the sector? 
 		text3: Where are our stronger and weaker points relative to our peers? 
-   
+		
       - title: Return on investment (CISO, CFO)
         text1: Lorem
         text2:  Which security investments will have the largest return on investment?
 		text3: Given our current security stance, which 
+		
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
