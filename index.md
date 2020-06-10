@@ -28,12 +28,12 @@ sections:
       - title: Use case Benchmarking (CISO)
         text1: 
         text2: How does our security posture compare to other firms in the sector? 
-		text2: Where are our stronger and weaker points relative to our peers? 
+		text3: Where are our stronger and weaker points relative to our peers? 
    
       - title: Return on investment (CISO, CFO)
         text1: 
         text2:  Which security investments will have the largest return on investment?
-		text2: Given our current security stance, which 
+		text3: Given our current security stance, which 
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
