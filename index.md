@@ -20,8 +20,8 @@ sections:
         url: '#page-top'
         class: btn-light
 
-  - type: services.html
-    section_id: services
+  - type: serviceshome.html
+    section_id: serviceshome
     #background_style: bg-info
     title: At Your Service
     services:

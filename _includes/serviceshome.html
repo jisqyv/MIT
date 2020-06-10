@@ -1,0 +1,31 @@
+<section class="page-section {{ section.background_style }}" id="{{ section.section_id }}">
+  <div class="container serviceshomecol">
+    
+    <div class="row row-mid-6 ">
+      <!-- {#% assign cols = section.serviceshome.size | at_most: 4 %#} -->
+      {% assign cols = section.serviceshome.size %}
+      {% if cols > 2 %}
+        {% assign cols = 2 %}
+      {% endif %}
+
+      {% assign colsL = 6 | divided_by: cols %}
+      {% assign colsM = colsL | times: 2 %}
+
+      {% for servicehome in section.serviceshome %}
+      <div class="col serviceshome">
+
+		  <div class="col ">
+          <h3 class="h4 mb-2">{{ servicehome.title }}</h3>
+		  <hr class="divider my-4">
+          <div class="col">
+		  <ul>
+            <li>{{ servicehome.text1 | markdownify }}</li>
+			<li>{{ servicehome.text2 | markdownify }}</li>
+           </ul>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
