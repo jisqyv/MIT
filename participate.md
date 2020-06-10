@@ -26,7 +26,6 @@ sections:
     title: At Your Service
     services:
       - title: 'Step: Evaluate your security posture'
-
         text1: How to benchmark your own security posture using our method
         text2: ' ' 
 
