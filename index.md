@@ -20,19 +20,19 @@ sections:
         url: '#page-top'
         class: btn-light
 
-  - type: serviceshome.html
-    section_id: serviceshome
+  - type: services.html
+    section_id: services
     #background_style: bg-info
     title: At Your Service
-    serviceshome:
+    services:
       - title: Use case Benchmarking (CISO)
         text1: How does our security posture compare to other firms in the sector? 
-		text2: Where are our stronger and weaker points relative to our peers? 
-		
+        text2: Where are our stronger and weaker points relative to our peers? 
+   
       - title: Return on investment (CISO, CFO)
-        text1: Which security investments will have the largest return on investment?
-		text2: Given our current security stance, which 
-		
+        text1: Which security investments will have the largest return on investment? 
+        text2: Given our current security stance, which 
+
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
