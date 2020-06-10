@@ -18,6 +18,7 @@
           <h3 class="h4 mb-2">{{ servicehome.title }}</h3>
 		  <hr class="divider my-4">
           <div class="col">
+		  {{ servicehome.text3 | markdownify }}
 		  <ul>
             <li>{{ servicehome.text1 | markdownify }}</li>
 			<li>{{ servicehome.text2 | markdownify }}</li>
