@@ -28,12 +28,12 @@ sections:
       - title: Use case Benchmarking (CISO)
         text1: How does our security posture compare to other firms in the sector? 
         text2: Where are our stronger and weaker points relative to our peers? 
-		text3: 'Our benchmarking platform allows firms to compare privately their security defense posture to other firms both within an industry and across the entire market using more than 100 security controls.  SCRAM benchmarks allow firms to identify potential gaps in defensive coverage and evaluate the adoption of emerging technologies and defensive strategies.' 
+		text3: Our benchmarking platform allows firms to compare privately their security defense posture to other firms both within an industry and across the entire market using more than 100 security controls.  SCRAM benchmarks allow firms to identify potential gaps in defensive coverage and evaluate the adoption of emerging technologies and defensive strategies.
    
       - title: Return on investment (CISO, CFO)
         text1: Which security investments will have the largest return on investment? 
         text2: Given our current security stance, which 
-		text3: 'SCRAM’s return on investment data helps CISOs and CFOs guide security investments toward security controls with the largest real-world monetary losses resulting from successful attacks. Participating firms receive actionable intelligence and rankings detailing aggregated losses by security control that can be used to target specific security investments.'
+		text3: SCRAM’s return on investment data helps CISOs and CFOs guide security investments toward security controls with the largest real-world monetary losses resulting from successful attacks. Participating firms receive actionable intelligence and rankings detailing aggregated losses by security control that can be used to target specific security investments.
  
 
 
