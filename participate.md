@@ -30,7 +30,6 @@ sections:
         text2: ' ' 
 
       - title: 'Step: Gather our losses and related control failures'
-	  
         text1: Learn how to calculate monetary losses for your security events 
         text2: ' '  
       
