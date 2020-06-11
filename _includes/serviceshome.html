@@ -16,9 +16,10 @@
 
 		  <div class="col ">
           <h3 class="h4 mb-2">{{ servicehome.title }}</h3>
-<p>{{ servicehome.titletxt | markdownify }}</p>
+
 
           <div class="col">
+		  {{ servicehome.titletxt | markdownify }}
 		  <ul>
             <li>{{ servicehome.text1 | markdownify }}</li>
 			<li>{{ servicehome.text2 | markdownify }}</li>
