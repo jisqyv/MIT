@@ -71,7 +71,7 @@ sections:
         url: '#'
 
   - type: asidehome.html
-    section_id: aside
+    section_id: asidehome
     title: Participate in a computation 
 	text: 'Contact us if you’d like to participate in a computation'
     actions:
