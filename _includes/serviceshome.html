@@ -1,7 +1,8 @@
 <section class="page-section {{ section.background_style }}" id="{{ section.section_id }}">
 <div class="container-fluid">
-{% for service in section.services %}
+
 <div class="row" >
+{% for servicehome1 in section.services %}
     <div class="col-sm-6 col-xs-12">
 	<h3 class="h4 mb-2">{{ servicehome1.title1 }}</h3>
 	<p>{{ servicehome1.text1 | markdownify }}</p>
@@ -11,7 +12,8 @@
 			<li>{{ servicehome1.text3 | markdownify }}</li>
            </ul>
 	
-	</div>
+	</div>{% endfor %}
+	{% for servicehome2 in section.services %}
     <div class="col-sm-6 col-xs-12">
 	<h3 class="h4 mb-2">{{ servicehome2.title1 }}</h3>
 	<p>{{ servicehome2.text1 | markdownify }}</p>
