@@ -19,8 +19,8 @@ sections:
 The working group is by invitation only, but if you think your company may be a good fit, please reach out to us at scram@mit.edu. 
 '
     actions:
-      - title: Get Started!
-        url: '#page-top'
+      - title: Sign in to an existing computation
+        url: 'https://scram.mit.edu/accounts/login/?next=/'
         class: btn-light
 
   - type: services.html
