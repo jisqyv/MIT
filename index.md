@@ -74,8 +74,8 @@ sections:
     section_id: asidehome
     title: Participate in a computation 
     actions:
-      - title: Learn More About Us
-        url: /about
+      - title: Contact us
+        url: '#contact'
         class: btn-light
 
   - type: contact.html
