@@ -13,13 +13,15 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-	    actions:
-      - title: Sign in to an existing computation!
-        url: 'https://scram.mit.edu/accounts/login/?next=/'
-        class: btn-light
-    title: 'Participate in future computations: '
-    text: 'Building on the success of our earlier computations, we are assembling a larger group of companies in key sectors to participate in the next round of computations. All participants will be able to compare their own security posture against their peer group and will receive an actionable analysis of defensive areas that should be considered for additional investment and scrutiny based on actual losses throughout the group. Participants will also be able to see how different sectors compare to one another. The working group is by invitation only, but if you think your company may be a good fit, please reach out to us at scram@mit.edu.' 
+    title: Participate in our computations
+    text: 'Building on the success of our earlier computations, we are assembling a larger group of companies in key sectors to participate in the next round of computations. All participants will be able to compare their own security posture against their peer group and will receive an actionable analysis of defensive areas that should be considered for additional investment and scrutiny based on actual losses throughout the group. Participants will also be able to see how different sectors compare to one another.
 
+The working group is by invitation only, but if you think your company may be a good fit, please reach out to us at scram@mit.edu. 
+'
+    actions:
+      - title: Get Started!
+        url: '#page-top'
+        class: btn-light
 
   - type: services.html
     section_id: services
