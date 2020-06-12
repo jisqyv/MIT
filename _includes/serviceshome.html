@@ -2,7 +2,7 @@
 <div class="container-fluid">
 
 <div class="row" >
-{% for servicehome1 in section.services %}
+{% for servicehome1 in section.serviceshome %}
     <div class="col-sm-6 col-xs-12">
 	<h3 class="h4 mb-2">{{ servicehome1.title1 }}</h3>
 	<p>{{ servicehome1.text1 | markdownify }}</p>
@@ -13,7 +13,7 @@
            </ul>
 	
 	</div>{% endfor %}
-	{% for servicehome2 in section.services %}
+	{% for servicehome2 in section.serviceshome %}
     <div class="col-sm-6 col-xs-12">
 	<h3 class="h4 mb-2">{{ servicehome2.title1 }}</h3>
 	<p>{{ servicehome2.text1 | markdownify }}</p>
