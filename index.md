@@ -26,15 +26,11 @@ sections:
     title: At Your Service
     serviceshome:
       - title: 'Use case Benchmarking (CISO)'
-	    text: 'Our benchmarking platform allows firms to privately compare their security defense posture to other firms both within an industry and across the entire market using over 100 security controls.  SCRAM benchmarks allow firms to identify potential gaps in defensive coverage and evaluate the adoption of emerging technologies and defensive strategies.' 
-        subtitle: 'What you’ll discover:'
         text1: 'How does our security posture compare to other firms in the sector?'
         text2: 'What are our stronger and weaker points relative to our peers?'
 
    
       - title: 'Return on investment (CISO, CFO)'
-		text: 'SCRAM’s return on investment data helps CISOs and CFOs guide security investments toward security controls with the largest real-world monetary losses resulting from successful attacks. Participating firms receive actionable intelligence and rankings detailing aggregated losses by security control that they can use to target specific security investments'
-        subtitle: 'What you’ll discover:'
         text1: 'Which security investments will have the largest return on investment?' 
         text2: 'Given our current security stance, which security investments may justify additional investment?' 
         
