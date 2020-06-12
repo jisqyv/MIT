@@ -10,7 +10,7 @@ header:
 
 
 sections:
-  - type: call-to-action.html
+  - type: call-to-actionabout.html
     section_id: about
     background_style: bg-primary
     title: MIT Origins
