@@ -31,7 +31,7 @@ sections:
 
    
       - title: 'Return on investment (CISO, CFO)'
-        text1: 'Which security investments will have the largest return on investment?' 
+		text1: 'Which security investments will have the largest return on investment?' 
         text2: 'Given our current security stance, which security investments may justify additional investment?' 
         
 
