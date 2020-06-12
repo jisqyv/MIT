@@ -75,7 +75,7 @@ sections:
     title: Participate in a computation 
     actions:
       - title: Contact us
-        url: '#contact'
+        url: '#contacts'
         class: btn-light
 
   - type: contact.html
