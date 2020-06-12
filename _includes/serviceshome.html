@@ -1,28 +1,32 @@
 <section class="page-section {{ section.background_style }}" id="{{ section.section_id }}">
-<div class="container-fluid">
+  <div class="container serviceshomecol">
+    
+    <div class="row row-mid-6 ">
+      <!-- {#% assign cols = section.serviceshome.size | at_most: 4 %#} -->
+      {% assign cols = section.serviceshome.size %}
+      {% if cols > 2 %}
+        {% assign cols = 2 %}
+      {% endif %}
 
-<div class="row" >
-{% for servicehome1 in section.serviceshome %}
-    <div class="col-sm-6 col-xs-12">
-	<h3 class="h4 mb-2">{{ servicehome1.title1 }}</h3>
-	<p>{{ servicehome1.text1 | markdownify }}</p>
-	<h4 class="h4 mb-2">{{ servicehome1.subtitle1 }}</h4>
-	<ul>
-            <li>{{ servicehome1.text2 | markdownify }}</li>
-			<li>{{ servicehome1.text3 | markdownify }}</li>
+      {% assign colsL = 6 | divided_by: cols %}
+      {% assign colsM = colsL | times: 2 %}
+
+      {% for servicehome in section.serviceshome %}
+      <div class="col serviceshome">
+
+		  <div class="col ">
+          <h3 class="h4 mb-2">{{ servicehome.title }}</h3>
+
+
+          <div class="col">
+		  <ul>
+            <li>{{ servicehome.text1 | markdownify }}</li>
+			<li>{{ servicehome.text2 | markdownify }}</li>
            </ul>
-	
-	</div>{% endfor %}
-	{% for servicehome2 in section.serviceshome %}
-    <div class="col-sm-6 col-xs-12">
-	<h3 class="h4 mb-2">{{ servicehome2.title1 }}</h3>
-	<p>{{ servicehome2.text1 | markdownify }}</p>
-	<h4 class="h4 mb-2">{{ servicehome2.subtitle1 }}</h4>
-	<ul>
-            <li>{{ servicehome2.text2 | markdownify }}</li>
-			<li>{{ servicehome2.text3 | markdownify }}</li></div>
-			
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
   </div>
-</div>      {% endfor %}
-  
 </section>

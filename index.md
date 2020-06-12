@@ -24,17 +24,15 @@ sections:
     section_id: servicehome
     #background_style: bg-info
     title: At Your Service
-    serviceshome1:
-      - title1: 'Use case Benchmarking (CISO)'
-		text1: 'SCRAM’s return on investment data helps CISOs and CFOs guide security investments toward security controls with the largest real-world monetary losses resulting from successful attacks. Participating firms receive actionable intelligence and rankings detailing aggregated losses by security control that they can use to target specific security investments'
-		subtitle1: 'What you’ll learn:'
-        text2: 'How does our security posture compare to other firms in the sector?'
-        text3: 'What are our stronger and weaker points relative to our peers?'
+    serviceshome:
+      - title: 'Use case Benchmarking (CISO)'
+		content: 'SCRAM’s return on investment data helps CISOs and CFOs guide security investments toward security controls with the largest real-world monetary losses resulting from successful attacks. Participating firms receive actionable intelligence and rankings detailing aggregated losses by security control that they can use to target specific security investments'
+        text1: 'How does our security posture compare to other firms in the sector?'
+        text2: 'What are our stronger and weaker points relative to our peers?'
 
-     serviceshome2:
-      - title1: 'Return on investment (CISO, CFO)'
-		text1: 'SCRAM’s return on investment data helps CISOs and CFOs guide security investments toward security controls with the largest real-world monetary losses resulting from successful attacks. Participating firms receive actionable intelligence and rankings detailing aggregated losses by security control that they can use to target specific security investments'
-		subtitle1" 'What you’ll learn:'
+   
+      - title: 'Return on investment (CISO, CFO)'
+		content: 'SCRAM’s return on investment data helps CISOs and CFOs guide security investments toward security controls with the largest real-world monetary losses resulting from successful attacks. Participating firms receive actionable intelligence and rankings detailing aggregated losses by security control that they can use to target specific security investments'
         text1: 'Which security investments will have the largest return on investment?' 
         text2: 'Given our current security stance, which security investments may justify additional investment?' 
         
