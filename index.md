@@ -21,7 +21,7 @@ sections:
         class: btn-light
 
   - type: serviceshome.html
-    section_id: serviceshome
+    section_id: servicehome
     #background_style: bg-info
     title: At Your Service
     serviceshome:
