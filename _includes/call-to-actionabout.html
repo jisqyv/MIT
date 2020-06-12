@@ -4,7 +4,12 @@
       <div class="col-lg-8 {{ section.text_style | default: 'text-center' }}">
         <h2 class="text-white mt-0 text-center">{{ section.title }}</h2>
         <hr class="divider light my-4">
-        <div class="text-white-50 mb-4 text-justify">{{ section.text | markdownify }}</div>
+        <div class="text-white-50 mb-4 text-justify">
+		<p>In 2015 and 2016, MIT held a series of sector-specific workshops focused on protecting critical infrastructure. The workshops included presentations by CISOs from four distinct economic sectors (electricity, oil and gas, finance, and communications) who discussed the challenges they faced securing and defending their networks. A common theme began to emerge across all four sector-specific meetings: <b>The CISOs stated that deploying security controls was akin to “investing in the dark,” because they lacked the necessary illumination into the defensive postures and related losses of other firms that would only be available if firms shared information.</b> Despite this, the CISOs of these firms were also reluctant to share information because of the sensitive nature of their own data. </p>
+        
+       <p> It was clear that addressing the problem would require a multidisciplinary team to design a solution. We brought together specialists in financial risk, cryptography, and computer security from across MIT to design and build a new platform using cutting-edge cryptographic techniques. The novel platform could be used to securely and privately calculate aggregated metrics on cyber defenses and loss data, without requiring firms to disclose their own data. This new SCRAM platform provides clarity and visibility on how firms as a whole defend themselves, as well as improves the understanding of the relationship between control failures and financial losses. 
+</p>
+		</div>
       </div>
     </div>
     {% include actions.html actions=section.actions %}
