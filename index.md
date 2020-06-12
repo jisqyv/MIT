@@ -70,9 +70,10 @@ sections:
         icon: 6.jpg
         url: '#'
 
-  - type: aside.html
+  - type: asidehome.html
     section_id: aside
     title: Participate in a computation 
+	text: Contact us if you’d like to participate in a computation
     actions:
       - title: Learn More About Us
         url: /about
