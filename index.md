@@ -29,12 +29,10 @@ sections:
         text1: 'How does our security posture compare to other firms in the sector?'
         text2: 'What are our stronger and weaker points relative to our peers?'
 
-
    
       - title: 'Return on investment (CISO, CFO)'
 		text1: 'Which security investments will have the largest return on investment?' 
-        text2: 'Given our current security stance, which security investments may justify additional investment?'
-		 
+        text2: 'Given our current security stance, which security investments may justify additional investment?' 
         
 
       
