@@ -23,7 +23,7 @@ The working group is by invitation only, but if you think your company may be a 
         url: 'https://scram.mit.edu/accounts/login/?next=/'
         class: btn-light
 
-  - type: paticipateservices.html
+  - type: participateservices.html
     section_id: services
     #background_style: bg-info
     title: At Your Service
