@@ -13,10 +13,7 @@ sections:
     background_style: bg-primary
     title: What We Do
     text: SCRAM provides security benchmarking and return-on-security-investment data to CISOs and CFOs so they can better protect their networks, direct security investments, and improve the state of global cybersecurity.  The SCRAM cryptographic platform aggregates data from firms without requiring any firm to disclose their own sensitive data to anyone. Born and built at MIT by world-leading cryptographers, risk specialists, and cybersecurity experts, the SCRAM platform provides a safe way to aggregate sensitive cybersecurity defense and loss data in order to understand the state of cybersecurity and guide firm-level security investments.
-    actions:
-      - title: Get Started!
-        url: '#page-top'
-        class: btn-light
+
 
   - type: homeservices.html
     section_id: servicehome
