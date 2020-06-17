@@ -10055,9 +10055,9 @@ header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
   background: linear-gradient(to bottom, rgba(247, 247, 247, 0) 0%, rgba(115, 117, 117, 0.40) 100%), url("../img/bg-clienthero.jpg");
-  background-position: top center;
+  background-position: center;
   background-repeat: no-repeat;
-  background-attachment: scroll;
+  background-attachment: fixed;
   background-size: cover;
 }
 header.masthead h1 {
@@ -10066,11 +10066,11 @@ header.masthead h1 {
 }
 @media (min-width: 992px) {
   header.masthead {
-    height: 100vh;
-    min-height: 40rem;
-    padding-top: 4.5rem;
-    padding-bottom: 0;
-  }
+	height: 10vh;
+    min-height: 30rem;
+    padding-top: 10rem;
+    padding-bottom: 5rem;
+}
   header.masthead p {
     font-size: 1.15rem;
   }
