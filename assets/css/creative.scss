@@ -10146,6 +10146,33 @@ div#navbarResponsive {
     position: relative;
     right: 320px;
 }
+@media only screen and (max-width: 1240px) and (min-width: 1200px){
+div#navbarResponsive {
+    position: relative;
+    right: 275px;
+}}
+@media only screen and (max-width: 1199px) and (min-width: 1121px){
+
+div#navbarResponsive {
+    position: relative;
+    right: 275px;
+}}
+
+@media only screen and (max-width: 1120px) and (min-width: 993px){
+
+div#navbarResponsive {
+    position: relative;
+    right: 195px;
+}}
+@media only screen and (max-width: 992px) {
+div#navbarResponsive {
+    position: relative;
+    right: 75px;
+}}
+@media only screen and (max-width: 991px) {
+a.btn.btn-xl.btn-nav {
+    display: none;
+}}
 a.btn.btn-xl.btn-nav {
     background: #a82d41;
     border-radius: 0;
