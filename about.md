@@ -32,6 +32,14 @@ sections:
         text1: Lorem ipsum dolor sit amet, consectetur adipiscing elit
         text2: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
+
+  - type: aside.html
+    section_id: aside
+    title: Participate in a computation 
+    actions:
+      - title: Learn More About Us
+        url: /about
+        class: btn-light
   - type: members.html
     section_id: members
     title: Our Crew!
@@ -62,14 +70,6 @@ sections:
         image: assets/img/members/person7.jpg
         url: '#'
 		
-  - type: aside.html
-    section_id: aside
-    title: Participate in a computation 
-    actions:
-      - title: Learn More About Us
-        url: /about
-        class: btn-light
-
   - type: contact.html
     section_id: contacts
     title: Let's Get In Touch!
