@@ -34,7 +34,7 @@ sections:
         url: '#'
       - title: Vinod Vaikuntanathan
         text: 'Steven and Renee Finn Career Development Assistant Professor of Computer Science'
-        image: assets/img/members/person3.jpg
+        image: assets/img/members/Person-Vaikuntanathan-Vinod-150x150.jpg
         url: '#'
       - title: Taylor Reynolds
         text: 'Technology Policy Director'
