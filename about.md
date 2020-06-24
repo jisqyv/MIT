@@ -48,9 +48,9 @@ sections:
         text: ''
         image: assets/img/members/Person-Schiller-Jeff-02.jpeg
         url: '#'
-      - title: Daniel Weitzner
-        text: 'Founding Director, MIT Internet Policy Research Initiative (IPRI)'
-        image: assets/img/members/person1.jpg
+      - title: Francisca Susan
+        text: 'Ph.D. Student - Sloan'
+        image: assets/img/members/Person-Fransisca-Susan-150x150.jpg
         url: '#'
       - title: Daniel Weitzner
         text: 'Founding Director, MIT Internet Policy Research Initiative (IPRI)'
