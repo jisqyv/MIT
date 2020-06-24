@@ -30,7 +30,7 @@ sections:
         url: '#'
       - title: Andrew Lo
         text: 'Charles E. and Susan T. Harris Professor of Finance, and the Director of the Laboratory for Financial Engineering'
-        image: assets/img/members/person2.jpg
+        image: assets/img/members/Person-Lo-Andrew-150x150.jpg
         url: '#'
       - title: Vinod Vaikuntanathan
         text: 'Steven and Renee Finn Career Development Assistant Professor of Computer Science'
