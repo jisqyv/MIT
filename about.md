@@ -38,15 +38,15 @@ sections:
         url: '#'
       - title: Taylor Reynolds
         text: 'Technology Policy Director'
-        image: assets/img/members/person5.jpg
+        image: assets/img/members/Person-Reynolds-Taylor-1-150x150.png
         url: '#'
       - title: Leo de Castro
         text: 'Masters Student - Theory of Computation'
-        image: assets/img/members/person6.jpg
+        image: assets/img/members/Person-deCastro-Leo-150x150.jpg
         url: '#'
       - title: Jeff Schiller
         text: ''
-        image: assets/img/members/person7.jpg
+        image: assets/img/members/Person-Schiller-Jeff-02.jpeg
         url: '#'
       - title: Daniel Weitzner
         text: 'Founding Director, MIT Internet Policy Research Initiative (IPRI)'
