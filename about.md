@@ -52,9 +52,9 @@ sections:
         text: 'Ph.D. Student - Sloan'
         image: assets/img/members/Person-Fransisca-Susan-150x150.jpg
         url: '#'
-      - title: Daniel Weitzner
-        text: 'Founding Director, MIT Internet Policy Research Initiative (IPRI)'
-        image: assets/img/members/person1.jpg
+      - title: Nicolas Xuan-Yi Zhang
+        text: 'Masters Student - TPP'
+        image: assets/img/members/Person-ZHANG-Nicolas-150x150.jpg
         url: '#'
 
 
