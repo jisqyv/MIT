@@ -19,6 +19,19 @@ sections:
         It was clear that addressing the problem would require a multidisciplinary team to design a solution. We brought together specialists in financial risk, cryptography, and computer security from across MIT to design and build a new platform using cutting-edge cryptographic techniques. The novel platform could be used to securely and privately calculate aggregated metrics on cyber defenses and loss data, without requiring firms to disclose their own data. This new SCRAM platform provides clarity and visibility on how firms as a whole defend themselves, as well as improves the understanding of the relationship between control failures and financial losses.'
 
 
+  - type: services.html
+    section_id: services
+    #background_style: bg-info
+    title: At Your Service
+    services:
+      - title: People
+        text1: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+        text2: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+      - title: Academic Research
+        text1: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+        text2: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 
   - type: aside.html
     section_id: aside
