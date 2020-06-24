@@ -24,28 +24,36 @@ sections:
     title: Our Crew!
     background_style: bg-white
     members:
-      - title: Christina M. Aponte
-        text: Singer and Songwriter
+      - title: Daniel Weitzner
+        text: 'Founding Director, MIT Internet Policy Research Initiative (IPRI)'
         image: assets/img/members/person1.jpg
         url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
+      - title: Andrew Lo
+        text: 'Charles E. and Susan T. Harris Professor of Finance, and the Director of the Laboratory for Financial Engineering'
         image: assets/img/members/person2.jpg
         url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
+      - title: Vinod Vaikuntanathan
+        text: 'Steven and Renee Finn Career Development Assistant Professor of Computer Science'
         image: assets/img/members/person3.jpg
         url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
+      - title: Taylor Reynolds
+        text: 'Technology Policy Director'
         image: assets/img/members/person5.jpg
         url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
+      - title: Leo de Castro
+        text: 'Masters Student - Theory of Computation'
         image: assets/img/members/person6.jpg
         url: '#'
-      - title: Ella P. Walter
-        text: PR.
+      - title: Jeff Schiller
+        text: ''
+        image: assets/img/members/person7.jpg
+        url: '#'
+	 - title: Francisca Susan
+        text: 'Ph.D. Student - Sloan'
+        image: assets/img/members/person7.jpg
+        url: '#'
+	 - title: Nicolas Xuan-Yi Zhang
+        text: 'Masters Student - TPP'
         image: assets/img/members/person7.jpg
         url: '#'
 
