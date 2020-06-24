@@ -21,7 +21,7 @@ sections:
 
   - type: members.html
     section_id: members
-    title: Cyber risk team
+    title: Cyber Risk Team
     background_style: bg-white text-body
     members:
       - title: Daniel Weitzner
