@@ -52,6 +52,10 @@ sections:
         text: 'Founding Director, MIT Internet Policy Research Initiative (IPRI)'
         image: assets/img/members/person1.jpg
         url: '#'
+      - title: Daniel Weitzner
+        text: 'Founding Director, MIT Internet Policy Research Initiative (IPRI)'
+        image: assets/img/members/person1.jpg
+        url: '#'
 
 
  
