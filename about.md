@@ -22,7 +22,7 @@ sections:
   - type: members.html
     section_id: members
     title: Our Crew!
-    background_style: bg-info text-white
+    background_style: bg-white
     members:
       - title: Christina M. Aponte
         text: Singer and Songwriter
