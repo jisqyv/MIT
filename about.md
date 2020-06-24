@@ -21,7 +21,7 @@ sections:
 
   - type: members.html
     section_id: members
-    title: Our Crew!
+    title: Cyber risk team
     background_style: bg-white text-body
     members:
       - title: Daniel Weitzner
