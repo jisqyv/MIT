@@ -25,35 +25,27 @@ sections:
     background_style: bg-white
     members:
       - title: Daniel Weitzner
-        text: Founding Director, MIT Internet Policy Research Initiative (IPRI)
+        text: 'Founding Director, MIT Internet Policy Research Initiative (IPRI)'
         image: assets/img/members/person1.jpg
         url: '#'
       - title: Andrew Lo
-        text: Charles E. and Susan T. Harris Professor of Finance, and the Director of the Laboratory for Financial Engineering
+        text: 'Charles E. and Susan T. Harris Professor of Finance, and the Director of the Laboratory for Financial Engineering'
         image: assets/img/members/person2.jpg
         url: '#'
       - title: Vinod Vaikuntanathan
-        text: Steven and Renee Finn Career Development Assistant Professor of Computer Science
+        text: 'Steven and Renee Finn Career Development Assistant Professor of Computer Science'
         image: assets/img/members/person3.jpg
         url: '#'
       - title: Taylor Reynolds
-        text: Technology Policy Director
+        text: 'Technology Policy Director'
         image: assets/img/members/person5.jpg
         url: '#'
       - title: Leo de Castro
-        text: Masters Student - Theory of Computation
+        text: 'Masters Student - Theory of Computation'
         image: assets/img/members/person6.jpg
         url: '#'
       - title: Jeff Schiller
-        text: 
-        image: assets/img/members/person7.jpg
-        url: '#'
-	 - title: Francisca Susan
-        text: Ph.D. Student - Sloan
-        image: assets/img/members/person7.jpg
-        url: '#'
-	 - title: Nicolas Xuan-Yi Zhang
-        text: Masters Student - TPP
+        text: ''
         image: assets/img/members/person7.jpg
         url: '#'
 
