@@ -29,6 +29,7 @@ sections:
     section_id: technologyservicesservice
     #background_style: bg-info
     title: Background
+ 
         text: 'Traditionally, when members of a group want to learn about trends across their membership without revealing information to other members in the group, they need to select a trusted third party. This third party will gather data from all the participants, pool it, run computations on the data to produce summary statistics and analysis, and then send only the results back to all the participants in the pool. The third party needs to be trusted because it can view the data sent in by all the participants. Individual participants cannot see the inputs of other contributors, but the trusted third party can see everything. The process works well when participants are comfortable sharing their information with the third party (a risk) in exchange for learning more about the dynamics of the group (a benefit). 
         
 		But what if participants are unwilling to reveal sensitive data to even a trusted third party? MPC offers the same functionality as the data pool described above, but without requiring a trusted third party to see the data. This is possible due to a combination of the mathematical properties of encrypted data and clever structuring of the computations.  
