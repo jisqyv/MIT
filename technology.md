@@ -41,11 +41,8 @@ sections:
      
   - type: aside-technology.html
     section_id: aside
-    title: Our Process
-    process:
-      - 
-        text: Control adoption across peer groups.
-        
+    title: Participate in our computations
+    actions:
       - title: Learn More
         url: /participate
         class: btn-light
