@@ -43,27 +43,12 @@ sections:
     section_id: aside
     title: Our Process
     process:
-      - text1: 'Each firm individually generates its own key pair, where each key pair contains a public encryption key and a private decryption key.'
-	  
-	  - text2: 'All firms submit their public keys to the server.'
-	  
-	  - text3: 'The server combines all firms' public keys into a single joint/shared public key.'
-	  
-	  - text4: 'This new joint/shared public key is distributed from the server to all firms. '
-
-	  - text5: 'Each firm encrypts its private data using this new joint/shared public key, generating a ciphertext (an encrypted block of data).'
-	  
-	  - text6: 'Each firm sends the ciphertext of its private data to the server. This ciphertext completely hides the firm's data.'
-	  
-	  - text7: 'The server runs computations on all the encrypted data, producing an encrypted result of the computation.'
-	  
-	  - text8: 'The server sends the encrypted result back to each firm.'
-	  
-	  - text9: 'Each firm uses the private key they generated in Step 1 to partially decrypt the answer.'
-	  
-	  - text10: 'Each firms sends this partially decrypted answer back to the server. Note that without all the partial decryption pieces from all firms, the result is still completely hidden.'
-	  
-	  - text11: 'The server combines the results of all the partial decryptions it receives from firms to produce the decrypted result that is then shared with all firms.'
+      - 
+        text: Control adoption across peer groups.
+        
+      - title: Learn More
+        url: /participate
+        class: btn-light
 
   
 
