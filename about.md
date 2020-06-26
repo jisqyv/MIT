@@ -24,6 +24,7 @@ sections:
     title: Cyber Risk Team
     background_style: bg-white text-body
     members:
+	actions:
       - title: Daniel Weitzner
         text: 'Founding Director, MIT Internet Policy Research Initiative (IPRI)'
         image: assets/img/members/Daniel-Weitzner-150x150.png
