@@ -29,7 +29,6 @@ sections:
     section_id: technologyservicesservice
     #background_style: bg-info
     title: Background
-    text:
         text: 'Traditionally, when members of a group want to learn about trends across their membership without revealing information to other members in the group, they need to select a trusted third party. This third party will gather data from all the participants, pool it, run computations on the data to produce summary statistics and analysis, and then send only the results back to all the participants in the pool. The third party needs to be trusted because it can view the data sent in by all the participants. Individual participants cannot see the inputs of other contributors, but the trusted third party can see everything. The process works well when participants are comfortable sharing their information with the third party (a risk) in exchange for learning more about the dynamics of the group (a benefit). 
         
 		But what if participants are unwilling to reveal sensitive data to even a trusted third party? MPC offers the same functionality as the data pool described above, but without requiring a trusted third party to see the data. This is possible due to a combination of the mathematical properties of encrypted data and clever structuring of the computations.  
@@ -40,13 +39,31 @@ sections:
 
 
      
-  - type: aside.html
+  - type: aside-technology.html
     section_id: aside
-    title: Participate in our computations
-    actions:
-      - title: Learn More
-        url: /participate
-        class: btn-light
+    title: Our Process
+    process:
+      - text1: 'Each firm individually generates its own key pair, where each key pair contains a public encryption key and a private decryption key.'
+	  
+	  - text2: 'All firms submit their public keys to the server.'
+	  
+	  - text3: 'The server combines all firms' public keys into a single joint/shared public key.'
+	  
+	  - text4: 'This new joint/shared public key is distributed from the server to all firms. '
+
+	  - text5: 'Each firm encrypts its private data using this new joint/shared public key, generating a ciphertext (an encrypted block of data).'
+	  
+	  - text6: 'Each firm sends the ciphertext of its private data to the server. This ciphertext completely hides the firm's data.'
+	  
+	  - text7: 'The server runs computations on all the encrypted data, producing an encrypted result of the computation.'
+	  
+	  - text8: 'The server sends the encrypted result back to each firm.'
+	  
+	  - text9: 'Each firm uses the private key they generated in Step 1 to partially decrypt the answer.'
+	  
+	  - text10: 'Each firms sends this partially decrypted answer back to the server. Note that without all the partial decryption pieces from all firms, the result is still completely hidden.'
+	  
+	  - text11: 'The server combines the results of all the partial decryptions it receives from firms to produce the decrypted result that is then shared with all firms.'
 
   
 
