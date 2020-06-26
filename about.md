@@ -27,7 +27,7 @@ sections:
       - title: Daniel Weitzner
         text: 'Founding Director, MIT Internet Policy Research Initiative (IPRI)'
         image: assets/img/members/Daniel-Weitzner-150x150.png
-        url: '#'
+        url: 'https://internetpolicy.mit.edu/daniel-weitzner/'
       - title: Andrew Lo
         text: 'Charles E. and Susan T. Harris Professor of Finance, and the Director of the Laboratory for Financial Engineering'
         image: assets/img/members/Person-Lo-Andrew-150x150.jpg
