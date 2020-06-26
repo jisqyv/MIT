@@ -25,8 +25,8 @@ sections:
         url: '#page-top'
         class: btn-light
 
-  - type: services.html
-    section_id: services
+  - type: technologyservices.html
+    section_id: technologyservicesservice
     #background_style: bg-info
     title: At Your Service
     services:
