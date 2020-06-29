@@ -43,7 +43,7 @@ sections:
   - type: aside-technology.html
     section_id: aside
     title: Our Proccess
-	text: 'Secure & private data aggregation and computation using cryptographic tools built by MIT experts.'
+	text: Secure & private data aggregation and computation using cryptographic tools built by MIT experts.
 	
 
 
