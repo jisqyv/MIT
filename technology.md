@@ -40,13 +40,15 @@ sections:
 
 
      
-  - type: aside.html
-    section_id: aside
-    title: Participate in our computations
-    actions:
-      - title: Learn More
-        url: /participate
-        class: btn-light
+  - type: ourprocess.html
+    section_id: process
+	background_style: bg-primary
+    title: Our Process
+    text: 'Secure & private data aggregation and computation using cryptographic tools built by MIT experts. 
+
+			No data disclosure required: Safely encrypt your data and keep it locked throughout the whole process. We cannot see your data, and no one else can either. We designed our process from the ground up with security and privacy by cryptographers, risk specialists, and cybersecurity experts. 
+
+			Evaluate our code and encrypt your own data.
 
   
 
