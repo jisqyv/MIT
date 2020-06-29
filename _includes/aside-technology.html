@@ -2,7 +2,7 @@
   <div class="container text-center">
     <h2 class="mb-4">{{ section.title }}</h2>
 	<ul>
-	<li>{{ section.text1 }}</li>
+	<li>{{ section.text1 | markdownify }}</li>
 	</ul>
     {% include actions.html actions=section.actions %}
   </div>
