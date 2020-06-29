@@ -43,10 +43,9 @@ sections:
   - type: aside-technology.html
     section_id: aside
     title: Our Proccess
-    actions:
-      - title: Learn More
-        url: /participate
-        class: btn-light
+	text1:'Each firm individually generates its own key pair, where each key pair contains a public encryption key and a private decryption key.'
+
+
 
   
 
