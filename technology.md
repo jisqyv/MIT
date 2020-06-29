@@ -42,7 +42,7 @@ sections:
      
   - type: aside-technology.html
     section_id: aside
-    title: Participate in our computations
+    title: Our Proccess
     actions:
       - title: Learn More
         url: /participate
