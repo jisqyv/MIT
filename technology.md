@@ -43,8 +43,10 @@ sections:
   - type: aside-technology.html
     section_id: aside
     title: Our Proccess
-	
-
+    actions:
+      - title: Learn More
+        url: /participate
+        class: btn-light
 
   
 
