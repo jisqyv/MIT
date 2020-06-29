@@ -1,9 +1,7 @@
 <section id="{{ section.section_id }}" class="page-section bg-dark text-white {{ section.background_style }}">
   <div class="container text-center">
     <h2 class="mb-4">{{ section.title }}</h2>
-	<ul>
-	<li>{{ section.text1 | markdownify }}</li>
-	</ul>
+	
     {% include actions.html actions=section.actions %}
   </div>
 </section>
