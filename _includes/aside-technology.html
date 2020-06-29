@@ -1,7 +1,7 @@
 <section id="{{ section.section_id }}" class="page-section bg-dark text-white {{ section.background_style }}">
   <div class="container ">
     <h2 class="mb-4 text-center">{{ section.title }}</h2>
-	<ul>
+	<ol>
 	<li>Each firm individually generates its own key pair, where each key pair contains a public encryption key and a private decryption key.</li>
 	<li>All firms submit their public keys to the server.</li>
 	<li>The server combines all firms' public keys into a single joint/shared public key.</li>
@@ -13,7 +13,7 @@
 	<li>Each firm uses the private key they generated in Step 1 to partially decrypt the answer.</li>
 	<li>Each firms sends this partially decrypted answer back to the server. Note that without all the partial decryption pieces from all firms, the result is still completely hidden.</li>
 	<li>The server combines the results of all the partial decryptions it receives from firms to produce the decrypted result that is then shared with all firms. </li>
-	</ul>
+	</ol>
     {% include actions.html actions=section.actions %}
   </div>
 </section>
