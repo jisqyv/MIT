@@ -29,16 +29,16 @@ sections:
     product:
       - title: Secure computation
         text: '[Why the computation is secure]
-		>Quantum-secure cryptographic protocols
-		>Local public/private key generation
-		>Ability to do integrity tests on the solutions'
+		Quantum-secure cryptographic protocols
+		Local public/private key generation
+		Ability to do integrity tests on the solutions'
         icon: fa-gem text-info
 
       - title: Secure network 
         text: '[How we have secured the network]
-		>Data leaving your site is always securely encrypted.
-		>Computation data (multiple encryption layers)
-		>Public key (single encryption layer)'
+		Data leaving your site is always securely encrypted.
+		Computation data (multiple encryption layers)
+		Public key (single encryption layer)'
         icon: fa-paper-plane text-info
       - title: Review & audit our code 
         text: We believe that firms should be able to audit our code to ensure that their data is handled correctly and safely. Computation participants get access to our code to review for themselves. 
