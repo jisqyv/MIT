@@ -20,7 +20,7 @@ sections:
     title: At Your Service
     serviceshome:
       - title: 'Use case Benchmarking (CISO)'
-        text1: 'How does our security posture compare to other firms in the sector?'
+        text1: 'Our benchmarking platform allows firms to privately compare their security defense posture to other firms both within an industry and across the entire market by using over 100 security controls. SCRAM benchmarks allow firms to identify potential gaps in defensive coverage and evaluate the adoption of emerging technologies and defensive strategies.'
         text2: 'What are our stronger and weaker points relative to our peers?'
 
    
