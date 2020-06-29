@@ -1,7 +1,7 @@
 ---
 layout: page
 header:
-  title: Products
+  title: Security
   text: >
     Start Bootstrap can help you build better websites using the Bootstrap
     framework! Just download a theme and start customizing, no strings attached!
@@ -14,8 +14,9 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: Products
-    text: StaLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    title: 
+    text: Our platform was designed and built by the world leading cryptographers and security specialists because we believe that often the most valuable data is too sensitive to disclose.  
+
     actions:
       - title: Get Started!
         url: '#page-top'
@@ -26,15 +27,22 @@ sections:
     #background_style: bg-info
     title: At Your Service
     product:
-      - title: Security benchmarking
-        text: Control adoption across peer groups.
+      - title: Secure computation
+        text: '[Why the computation is secure]
+		Quantum-secure cryptographic protocols
+		Local public/private key generation
+		Ability to do integrity tests on the solutions'
         icon: fa-gem text-info
 
-      - title: Security investment guidance 
-        text: RoI computations
+      - title: Secure network 
+        text: '[How we have secured the network]
+		Data leaving your site is always securely encrypted.
+		Computation data (multiple encryption layers)
+		Public key (single encryption layer)'
         icon: fa-paper-plane text-info
-      - title: Future 
-        text: Real-time secure SIEM group notification
+		
+      - title: Review & audit our code 
+        text: We believe that firms should be able to audit our code to ensure that their data is handled correctly and safely. Computation participants get access to our code to review for themselves. 
         icon: fa-laptop-code text-info
      
 
