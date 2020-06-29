@@ -43,8 +43,7 @@ sections:
   - type: aside-technology.html
     section_id: aside
     title: Our Proccess
-	text:>-
-	lorem ipsum
+	
 
 
   
