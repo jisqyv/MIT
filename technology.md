@@ -44,8 +44,11 @@ sections:
     section_id: aside
     title: Our Proccess
     actions:
-      - title: Learn More
-        url: /participate
+      - title: Dig deeper into the technical details
+        url: '#'
+        class: btn-light
+      - title: Learn more about our security measures 
+        url: '#'
         class: btn-light
 
   
