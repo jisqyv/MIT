@@ -40,7 +40,7 @@ sections:
 
 
      
-  - type: aside.html
+  - type: aside-technology.html
     section_id: aside
     title: Our Proccess
     actions:
