@@ -17,10 +17,6 @@ sections:
     title: 
     text: Our platform was designed and built by the world leading cryptographers and security specialists because we believe that often the most valuable data is too sensitive to disclose.  
 
-    actions:
-      - title: Get Started!
-        url: '#page-top'
-        class: btn-light
 
   - type: products.html
     section_id: product
@@ -48,7 +44,7 @@ sections:
 
   - type: securityaside.html
     section_id: aside
-    title: '' 
+    title: Secure & private data aggregation and computation using cryptographic tools built by MIT experts. 
     actions:
       - title: Dig deeper into the technical details
         url: '#'
