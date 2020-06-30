@@ -22,11 +22,11 @@ sections:
         url: '#page-top'
         class: btn-light
 
-  - type: products.html
-    section_id: product
+  - type: security.html
+    section_id: secure
     #background_style: bg-info
     title: At Your Service
-    product:
+    secured:
       - title: Secure computation
         text: '[Why the computation is secure]
 		Quantum-secure cryptographic protocols
