@@ -24,26 +24,14 @@ The working group is by invitation only, but if you think your company may be a 
     #background_style: bg-info
     title: At Your Service
     services:
-      - title: 'Step 1: Sign up '
-        text: 'Contact us at scram@mit.edu to join a computation' 
-	  
-	  - title: 'Step 2: Evaluate your security posture'
-        text: 'Instructions & background materials' 	
+      - title: 'Step: Evaluate your security posture'
+        text1: How to benchmark your own security posture using our method
+        text2: ' ' 
 
-	  - title: 'Step 3: Estimate and allocate your cyber losses'
-        text: 'Instructions and background materials' 			
-
-	  - title: 'Step 4: Fill in a computation template'
-        text: 'Templates' 		
-		
-	  - title: 'Step 5: Login to the platform and select your computation'
-        text: 'Account information' 		
-
-	  - title: 'Step 6: Encrypt and upload your template'
-        text: 'Platform instructions' 	
-		
-	  - title: 'Step 7: Receive the results'
-        text: 'Interpreting the results' 	
+      - title: 'Step: Gather our losses and related control failures'
+        text1: Learn how to calculate monetary losses for your security events 
+        text2: ' '  
+      
 
   - type: contact.html
     section_id: contacts
