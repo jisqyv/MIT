@@ -10155,7 +10155,7 @@ div#navbarResponsive {
 
 div#navbarResponsive {
     position: relative;
-    right: 53px;
+    right: 30px;
 }}
 
 @media only screen and (max-width: 1120px) and (min-width: 993px){
@@ -10167,12 +10167,16 @@ div#navbarResponsive {
 @media only screen and (max-width: 992px) {
 div#navbarResponsive {
     position: relative;
-    right: 75px;
+    right: 20px;
 }}
 @media only screen and (max-width: 991px) {
 a.btn.btn-xl.btn-nav {
     display: none;
-}}
+}
+.navbar-right.nav-2logo {
+    display: none;
+}
+}
 a.btn.btn-xl.btn-nav {
     background: #a82d41;
     border-radius: 0;
