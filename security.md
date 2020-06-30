@@ -18,8 +18,12 @@ sections:
     #background_style: bg-info
     title: At Your Service
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
+      - title: Secure computation
+        text: >- [Why the computation is secure]
+Quantum-secure cryptographic protocols
+Local public/private key generation
+Ability to do integrity tests on the solutions
+
         icon: fa-gem text-info
         url: https://startbootstrap.com/
       - title: Ready to Ship
