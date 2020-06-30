@@ -1,18 +1,18 @@
 <section id="{{ section.section_id }}" class="page-section bg-dark text-white {{ section.background_style }}">
   <div class="container ">
     <h2 class="mb-4 text-center">{{ section.title }}</h2>
-	<ol>
-	<li class="mb-5">Each firm individually generates its own key pair, where each key pair contains a public encryption key and a private decryption key.</li>
-	<li class="mb-5">All firms submit their public keys to the server.</li>
-	<li class="mb-5">The server combines all firms' public keys into a single joint/shared public key.</li>
-	<li class="mb-5">This new joint/shared public key is distributed from the server to all firms.</li>
-	<li class="mb-5">Each firm encrypts its private data using this new joint/shared public key, generating a ciphertext (an encrypted block of data).</li>
-	<li class="mb-5">Each firm sends the ciphertext of its private data to the server. This ciphertext completely hides the firm's data.</li>
-	<li class="mb-5">The server runs computations on all the encrypted data, producing an encrypted result of the computation.</li>
-	<li class="mb-5">The server sends the encrypted result back to each firm.</li>
-	<li class="mb-5">Each firm uses the private key they generated in Step 1 to partially decrypt the answer.</li>
-	<li class="mb-5">Each firms sends this partially decrypted answer back to the server. Note that without all the partial decryption pieces from all firms, the result is still completely hidden.</li>
-	<li class="mb-5">The server combines the results of all the partial decryptions it receives from firms to produce the decrypted result that is then shared with all firms. </li>
+	<ol class="mb-4">
+	<li >Each firm individually generates its own key pair, where each key pair contains a public encryption key and a private decryption key.</li>
+	<li>All firms submit their public keys to the server.</li>
+	<li>The server combines all firms' public keys into a single joint/shared public key.</li>
+	<li>This new joint/shared public key is distributed from the server to all firms.</li>
+	<li>Each firm encrypts its private data using this new joint/shared public key, generating a ciphertext (an encrypted block of data).</li>
+	<li>Each firm sends the ciphertext of its private data to the server. This ciphertext completely hides the firm's data.</li>
+	<li>The server runs computations on all the encrypted data, producing an encrypted result of the computation.</li>
+	<li>The server sends the encrypted result back to each firm.</li>
+	<li>Each firm uses the private key they generated in Step 1 to partially decrypt the answer.</li>
+	<li>Each firms sends this partially decrypted answer back to the server. Note that without all the partial decryption pieces from all firms, the result is still completely hidden.</li>
+	<li>The server combines the results of all the partial decryptions it receives from firms to produce the decrypted result that is then shared with all firms. </li>
 	</ol>
     {% include actions.html actions=section.actions %}
   </div>
