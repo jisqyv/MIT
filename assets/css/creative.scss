@@ -10247,3 +10247,7 @@ table.c {
   table-layout: auto;
   width: 100%;  
 }
+td {
+    border: 1px solid #000;
+    padding: 10px;
+}
