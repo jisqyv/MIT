@@ -19,11 +19,7 @@ sections:
     title: At Your Service
     services:
       - title: Secure computation
-        text: 
-		Quantum-secure cryptographic protocols
-		Local public/private key generation
-		Ability to do integrity tests on the solutions
-
+        text: Our templates are updated regularly so they don't break.
         icon: fa-gem text-info
         url: https://startbootstrap.com/
       - title: Ready to Ship
