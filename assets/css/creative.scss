@@ -10226,3 +10226,17 @@ a.btn.btn-xl.btn-research:hover{
 .redlink{
 color: #c5c7c7;
 }
+a.btn.btn-xl.js-scroll-trigger.btn-light{
+    background: #a82d41;
+    border-radius: 0;
+    padding: 10px 20px;
+    color: #fff;
+    border: 2px solid #a82d41;
+}
+a.btn.btn-xl.js-scroll-trigger.btn-light:hover{
+    background: transparent;
+    border-radius: 0;
+    padding: 10px 20px;
+    color: #a82d41;
+    border: 2px solid #a82d41;
+}
