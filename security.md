@@ -6,10 +6,10 @@ header:
 
 
 sections:
-  - type: call-to-action.html
+  - type: call-to-action-security.html
     section_id: about
     background_style: bg-primary
-    title: 
+    title: Security
     text: Our platform was designed and built by the world leading cryptographers and security specialists because we believe that often the most valuable data is too sensitive to disclose.  
 
 
