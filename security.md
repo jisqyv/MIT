@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 header:
   title: Your Favorite Source of Free Bootstrap Themes
   text: >
