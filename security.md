@@ -19,7 +19,7 @@ sections:
     title: At Your Service
     services:
       - title: Secure computation
-        text: >- 
+        text: 
 		Quantum-secure cryptographic protocols
 		Local public/private key generation
 		Ability to do integrity tests on the solutions
