@@ -25,9 +25,9 @@ sections:
     product:
       - title: Secure computation
         text: '[Why the computation is secure]
-		Quantum-secure cryptographic protocols
-		Local public/private key generation
-		Ability to do integrity tests on the solutions'
+		<br> Quantum-secure cryptographic protocols
+		<br> Local public/private key generation
+		<br> Ability to do integrity tests on the solutions'
         icon: fa-gem text-info
 
       - title: Secure network 
