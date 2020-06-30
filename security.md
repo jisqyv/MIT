@@ -48,7 +48,7 @@ sections:
 
   - type: securityaside.html
     section_id: aside
-    title: Secure & private data aggregation and computation using cryptographic tools built by MIT experts. 
+    title: '' 
     actions:
       - title: Dig deeper into the technical details
         url: '#'
