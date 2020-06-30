@@ -10212,6 +10212,13 @@ a.btn.btn-xl.btn-research{
     color: #fff;
     border: 2px solid #a82d41;
 }
+a.btn.btn-xl.btn-research:hover{
+    background: transparent;
+    border-radius: 0;
+    padding: 10px 20px;
+    color: #a82d41;
+    border: 2px solid #a82d41;
+}
 .bottombtn {
     padding-top: 70px;
     padding-bottom: 20px;
