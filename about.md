@@ -16,6 +16,10 @@ sections:
     title: MIT Origins
     text: 'SCRAM was built by a cross-disciplinary team at MIT to run secure and private computations'
 
+  - type: about.html
+    section_id: about2
+    background_style: bg-white text-body
+    text: 'SCRAM was built by a cross-disciplinary team at MIT to run secure and private computations'
 
 
   - type: members.html
