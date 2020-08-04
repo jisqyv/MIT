@@ -5,9 +5,11 @@
 header:
 - title: About
   url: /about
-- title: Products
-  url: /products
 - title: Technology
   url: /technology
-- title: Participate
+- title: Research
+  url: /research
+- title: Security
+  url: /security
+  - title: Participate
   url: /participate
