@@ -13,8 +13,8 @@ sections:
   - type: call-to-actionabout.html
     section_id: about
     background_style: bg-primary
-    title: MIT Origins
-    text: 'SCRAM was built by a cross-disciplinary team at MIT to run secure and private computations'
+    title: 
+    text: 'We use cryptographic tools to aggregate sensitive cyber-risk data and learn how to help firms, companies, governments and organizations better defend their networks and data.'
 
   - type: about.html
     section_id: about2
