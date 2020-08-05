@@ -1,59 +1,70 @@
 ---
 layout: page
 header:
-  title: Security
+  title: About Us
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    Cybersecurity benchmarking and ROI analytics without own-data disclosure
   action: # action button is optional
     label: Find Out More
     url: '#about'
 
 
 sections:
-  - type: call-to-action.html
+  - type: call-to-actionabout.html
     section_id: about
     background_style: bg-primary
-    title: 
-    text: We use cryptographic tools to aggregate sensitive cyber-risk data and learn how to help firms, companies, governments and organizations better defend their networks and data.   
+    title: MIT Origins
+    text: 'SCRAM was built by a cross-disciplinary team at MIT to run secure and private computations'
+
+  - type: about.html
+    section_id: about2
+    background_style: bg-white text-body
+    text: 'Edit the text here on the about.html'
 
 
-  - type: products.html
-    section_id: product
-    #background_style: bg-info
-    title: At Your Service
-    product:
-      - title: Secure computation
-        text: '[Why the computation is secure]
-		<br> Quantum-secure cryptographic protocols
-		<br> Local public/private key generation
-		<br> Ability to do integrity tests on the solutions'
-        icon: fa-gem text-info
+  - type: members.html
+    section_id: members
+    title: Cyber Risk Team
+    background_style: bg-white text-body
+    members:
+      - title: Daniel Weitzner
+        text: 'Founding Director, MIT Internet Policy Research Initiative (IPRI)'
+        image: assets/img/members/Daniel-Weitzner-150x150.png
+        url: 'https://internetpolicy.mit.edu/daniel-weitzner/'
+      - title: Andrew Lo
+        text: 'Charles E. and Susan T. Harris Professor of Finance, and the Director of the Laboratory for Financial Engineering'
+        image: assets/img/members/Person-Lo-Andrew-150x150.jpg
+        url: 'https://internetpolicy.mit.edu/team/andrew-lo/'
+      - title: Vinod Vaikuntanathan
+        text: 'Steven and Renee Finn Career Development Assistant Professor of Computer Science'
+        image: assets/img/members/Person-Vaikuntanathan-Vinod-150x150.jpg
+        url: 'https://internetpolicy.mit.edu/team/vinod-vaikuntanathan/'
+      - title: Taylor Reynolds
+        text: Technology Policy Director
+        image: assets/img/members/Person-Reynolds-Taylor-1-150x150.png
+        url: 'https://internetpolicy.mit.edu/team/taylor-reynolds/'
+      - title: Leo de Castro
+        text: 'Masters Student - Theory of Computation'
+        image: assets/img/members/Person-deCastro-Leo-150x150.jpg
+        url: 'https://internetpolicy.mit.edu/team/leo-de-castro/'
+      - title: Jeff Schiller
+        text: ''
+        image: assets/img/members/Person-Schiller-Jeff-02.jpeg
+        url: 'https://internetpolicy.mit.edu/team/jeff-schiller/'
+      - title: Francisca Susan
+        text: 'Ph.D. Student - Sloan'
+        image: assets/img/members/Person-Fransisca-Susan-150x150.jpg
+        url: 'https://internetpolicy.mit.edu/team/francisca-susan/'
+      - title: Nicolas Xuan-Yi Zhang
+        text: 'Masters Student - TPP'
+        image: assets/img/members/Person-ZHANG-Nicolas-150x150.jpg
+        url: 'https://internetpolicy.mit.edu/team/nicolas-xuan-yi-zhang/'
 
-      - title: Secure network 
-        text: '[How we have secured the network]
-		<br> Data leaving your site is always securely encrypted.
-		<br> Computation data (multiple encryption layers)
-		<br> Public key (single encryption layer)'
-        icon: fa-paper-plane text-info
-      - title: Review & audit our code 
-        text: We believe that firms should be able to audit our code to ensure that their data is handled correctly and safely. Computation participants get access to our code to review for themselves. 
-        icon: fa-laptop-code text-info
-     
 
+ 
 
-  - type: securityaside.html
-    section_id: aside
-    title: Secure & private data aggregation and computation using cryptographic tools built by MIT experts. 
-    actions:
-      - title: Dig deeper into the technical details
-        url: '#'
-        class: btn-light
-
-
-
-  - type: contact.html
-    section_id: contacts
+  - type: contacthome.html
+    section_id: contactshome
     title: Let's Get In Touch!
     text: >-
       Ready to start your next project with us? Give us a call or send us an email
@@ -66,5 +77,4 @@ sections:
       url: mailto:contact@scram@mit.edu
     - title: 32 Vassar Street Cambridge, MA 02139 USA
       icon: fa-map
-
 ---
