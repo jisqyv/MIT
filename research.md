@@ -10,7 +10,7 @@ header:
 
 
 sections:
-  - type: call-to-actionabout.html
+  - type: call-to-actionresearch.html
     section_id: about
     background_style: bg-primary
     title: 
