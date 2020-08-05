@@ -31,13 +31,10 @@ sections:
         icon: fa-gem text-info
 
       - title: Secure network 
-        text: '[How we have secured the network]
-		<br> Data leaving your site is always securely encrypted.
-		<br> Computation data (multiple encryption layers)
-		<br> Public key (single encryption layer)'
+        text: 'The computation requires a network to pass information back and forth to perform the operations on the encrypted data. The only data ever transmitted over the network is either strongly encrypted or is the public key of the clients, which can only be used to encrypt data, not decrypt it. The network uses TLS (Transport Layer Security) for a second layer of encryption to protect the encrypted data in transit. We take additional measures to ensure the security of the network and your data. '
         icon: fa-paper-plane text-info
       - title: Review & audit our code 
-        text: We believe that firms should be able to audit our code to ensure that their data is handled correctly and safely. Computation participants get access to our code to review for themselves. 
+        text: We believe that firms should be able to audit our code to ensure that their data is handled correctly and safely, so <a href="https://github.com/CSAIL/ipri-scram" target="_blank">we publish the source code</a> for their review. 
         icon: fa-laptop-code text-info
      
 
