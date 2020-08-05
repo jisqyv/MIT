@@ -1,7 +1,7 @@
 ---
 layout: page
 header:
-  title: About Us
+  title: Research
   text: >
     Cybersecurity benchmarking and ROI analytics without own-data disclosure
   action: # action button is optional
