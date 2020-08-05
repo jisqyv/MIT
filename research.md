@@ -15,7 +15,7 @@ sections:
     section_id: about
     background_style: bg-primary
     title: 
-    text: Our platform was designed and built by the world leading cryptographers and security specialists because we believe that often the most valuable data is too sensitive to disclose.  
+    text: We use cryptographic tools to aggregate sensitive cyber-risk data and learn how to help firms, companies, governments and organizations better defend their networks and data.   
 
 
   - type: products.html
