@@ -17,7 +17,7 @@ sections:
     text: 'We use cryptographic tools to aggregate sensitive cyber-risk data and learn how to help firms, companies, governments, and organizations better defend their networks and data.'
 
   - type: research.html
-    section_id: about2
+    section_id: resechedule
     background_style: bg-white text-body
     text: 'Edit the text here on the research.html'
 
