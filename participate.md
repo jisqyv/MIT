@@ -13,7 +13,7 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: Participate in our computations
+    title: 
     text: 'Come and join one of our ongoing or future computations
 '
 
