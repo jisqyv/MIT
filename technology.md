@@ -40,13 +40,15 @@ sections:
     section_id: aside
     title: Our Proccess
     actions:
-      - title: Dig deeper into the technical details
+      - title: Read our research
         url: '#'
         class: btn-light
-      - title: Learn more about our security measures 
+      - title: Understand our security 
         url: '/MIT/security'
         class: btn-light
-
+      - title: Evaluate our code 
+        url: 'https://github.com/CSAIL/ipri-scram'
+        class: btn-light
   
 
   - type: contact.html
