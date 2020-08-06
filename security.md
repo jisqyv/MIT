@@ -36,10 +36,7 @@ sections:
       - title: Review & audit our code 
         text: We believe that firms should be able to audit our code to ensure that their data is handled correctly and safely, so <a href="https://github.com/CSAIL/ipri-scram" target="_blank">we publish the source code</a>
         icon: fa-laptop-code text-info
-		actions:
-      - title: Join a computation
-        url: '/MIT/participate'
-        class: btn-light
+
      
 
 
