@@ -14,7 +14,7 @@ sections:
     section_id: about
     background_style: bg-primary
     title: 
-    text: 'Come and join one of our ongoing or future computations
+    text: 'Come and join one of our ongoing or future computations.
 '
 
   - type: participateservices.html
