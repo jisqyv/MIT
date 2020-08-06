@@ -15,10 +15,10 @@ sections:
     section_id: about
     background_style: bg-primary
     title: 
-    text: Our platform was designed and built by world-leading cryptographers and security specialists because we believe that often the most valuable data is too sensitive to disclose.   
+    text: Our platform was designed and built by world-leading cryptographers and security specialists because we believe that often the most valuable data is too sensitive to disclose.     
 
 
-  - type: products.html
+  - type: security.html
     section_id: product
     #background_style: bg-info
     title: At Your Service
