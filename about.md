@@ -34,11 +34,11 @@ sections:
       - title: Andrew Lo
         text: 'Charles E. and Susan T. Harris Professor of Finance, and the Director of the Laboratory for Financial Engineering'
         image: assets/img/members/Person-Lo-Andrew-150x150.jpg
-        url: 'https://internetpolicy.mit.edu/team/andrew-lo/'
+        url: 'https://mitsloan.mit.edu/faculty/directory/andrew-w-lo'
       - title: Vinod Vaikuntanathan
         text: 'Steven and Renee Finn Career Development Assistant Professor of Computer Science'
         image: assets/img/members/Person-Vaikuntanathan-Vinod-150x150.jpg
-        url: 'https://internetpolicy.mit.edu/team/vinod-vaikuntanathan/'
+        url: 'https://simons.berkeley.edu/people/vinod-vaikuntanathan'
       - title: Taylor Reynolds
         text: Technology Policy Director
         image: assets/img/members/Person-Reynolds-Taylor-1-150x150.png
@@ -46,7 +46,7 @@ sections:
       - title: Leo de Castro
         text: 'Masters Student - Theory of Computation'
         image: assets/img/members/Person-deCastro-Leo-150x150.jpg
-        url: 'https://internetpolicy.mit.edu/team/leo-de-castro/'
+        url: 'https://superurop.mit.edu/scholars/leo-de-castro/'
       - title: Jeff Schiller
         text: ''
         image: assets/img/members/Person-Schiller-Jeff-02.jpeg
@@ -54,11 +54,11 @@ sections:
       - title: Francisca Susan
         text: 'Ph.D. Student - Sloan'
         image: assets/img/members/Person-Fransisca-Susan-150x150.jpg
-        url: 'https://internetpolicy.mit.edu/team/francisca-susan/'
+        url: 'https://superurop.mit.edu/scholars/fransisca-susan/'
       - title: Nicolas Xuan-Yi Zhang
         text: 'Masters Student - TPP'
         image: assets/img/members/Person-ZHANG-Nicolas-150x150.jpg
-        url: 'https://internetpolicy.mit.edu/team/nicolas-xuan-yi-zhang/'
+        url: 'https://idss.mit.edu/staff/nicolas-xuan-yi-zhang/'
 
 
  
