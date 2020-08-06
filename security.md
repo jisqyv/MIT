@@ -36,16 +36,11 @@ sections:
       - title: Review & audit our code 
         text: We believe that firms should be able to audit our code to ensure that their data is handled correctly and safely, so <a href="https://github.com/CSAIL/ipri-scram" target="_blank">we publish the source code</a>
         icon: fa-laptop-code text-info
-     
-
-
-  - type: securityaside.html
-    section_id: aside
-    title: Secure & private data aggregation and computation using cryptographic tools built by MIT experts. 
-    actions:
-      - title: Dig deeper into the technical details
-        url: '#'
+		actions:
+      - title: Join a computation
+        url: '/MIT/participate'
         class: btn-light
+     
 
 
 
