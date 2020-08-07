@@ -10264,3 +10264,11 @@ padding: 2rem 0 !important;
 .paddingdesktop{
 padding: 50px 10px;
 }
+.col-xs-12.col-sm-6.lcontent {
+    border-right: 1px solid;
+    position: relative;
+    padding: 60px;
+}
+.col-xs-12.col-sm-6.rcontent {
+    padding: 60px;
+}
