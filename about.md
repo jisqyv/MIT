@@ -48,7 +48,7 @@ sections:
         image: assets/img/members/Person-deCastro-Leo-150x150.jpg
         url: 'https://superurop.mit.edu/scholars/leo-de-castro/'
       - title: Jeff Schiller
-        text: ''
+        text: 'Dev Ops and Software Engineer'
         image: assets/img/members/Person-Schiller-Jeff-02.jpeg
         url: 'https://internetpolicy.mit.edu/team/jeff-schiller/'
       - title: Francisca Susan
