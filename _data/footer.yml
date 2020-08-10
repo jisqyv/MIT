@@ -1,5 +1,10 @@
 copyright: &copy; 2020 Internet Policy Research Initiative
-
-content: <a href="https://accessibility.mit.edu/" target="_blank">Accesibility</a>
-
-
+links:
+  - text: Accesibility
+    url: 'https://internetpolicy.mit.edu/cyber-risk/'
+    new_window: true
+copyright2: Accesibility
+links2:
+  - text2: Accesibility
+    url2: 'https://internetpolicy.mit.edu/cyber-risk/'
+    new_window: true
