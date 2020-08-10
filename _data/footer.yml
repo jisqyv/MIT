@@ -1,4 +1,5 @@
-copyright: &copy; 2020 Internet Policy Research Initiative'
-links:
-  - text: Accesibility
-    url: 'https://accessibility.mit.edu/'
+copyright: &copy; 2020 Internet Policy Research Initiative
+
+content: <a href="https://accessibility.mit.edu/" target="_blank">Accesibility</a>
+
+
