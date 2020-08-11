@@ -2,57 +2,57 @@
   <div class="container ">
     <h2 class="mb-4 text-center">{{ section.title }}</h2>
 	  <div class="row" style="background-color:#9e9e9e;color:#fff;padding:20px;margin:10px;">
-    <div class="col-xs-12 col-sm-6 col-lg-3 " style="text-align:center;"><h3 class="h2">01</h3></div>
+    <div class="col-xs-12 col-sm-6 col-lg-3 align-middle" style="text-align:center;"><h3 class="h2">01</h3></div>
     <div class="clearfix col-xs-12 col-sm-6 col-lg-7" >Each firm individually generates its own key pair, where each key pair contains a public encryption key and a private decryption key.</div>
   </div>
   
   	  <div class="row" style="background-color:#eeeeee;padding:20px;margin:10px;">
-    <div class="col-xs-12 col-sm-6 col-lg-3 " style="text-align:center;"><h3 class="h2">02</h3></div>
+    <div class="col-xs-12 col-sm-6 col-lg-3 align-middle" style="text-align:center;"><h3 class="h2">02</h3></div>
     <div class="clearfix col-xs-12 col-sm-6 col-lg-7" >All firms submit their public keys to the server.</div>
   </div>
 
 	  <div class="row" style="background-color:#9e9e9e;color:#fff;padding:20px;margin:10px;">
-    <div class="col-xs-12 col-sm-6 col-lg-3 " style="text-align:center;"><h3 class="h2">03</h3></div>
+    <div class="col-xs-12 col-sm-6 col-lg-3 align-middle" style="text-align:center;"><h3 class="h2">03</h3></div>
     <div class="clearfix col-xs-12 col-sm-6 col-lg-7" >The server combines all firms' public keys into a single joint/shared public key.</div>
   </div>
    
   	  <div class="row" style="background-color:#eeeeee;padding:20px;margin:10px;">
-    <div class="col-xs-12 col-sm-6 col-lg-3 " style="text-align:center;"><h3 class="h2">04</h3></div>
+    <div class="col-xs-12 col-sm-6 col-lg-3 align-middle" style="text-align:center;"><h3 class="h2">04</h3></div>
     <div class="clearfix col-xs-12 col-sm-6 col-lg-7" >This new joint/shared public key is distributed from the server to all firms.</div>
   </div>
 
 	  <div class="row" style="background-color:#9e9e9e;color:#fff;padding:20px;margin:10px;">
-    <div class="col-xs-12 col-sm-6 col-lg-3 " style="text-align:center;"><h3 class="h2">05</h3></div>
+    <div class="col-xs-12 col-sm-6 col-lg-3 align-middle" style="text-align:center;"><h3 class="h2">05</h3></div>
     <div class="clearfix col-xs-12 col-sm-6 col-lg-7" >Each firm encrypts its private data using this new joint/shared public key, generating a ciphertext (an encrypted block of data).</div>
   </div>
     
   	  <div class="row" style="background-color:#eeeeee;padding:20px;margin:10px;">
-    <div class="col-xs-12 col-sm-6 col-lg-3 " style="text-align:center;"><h3 class="h2">06</h3></div>
+    <div class="col-xs-12 col-sm-6 col-lg-3 align-middle" style="text-align:center;"><h3 class="h2">06</h3></div>
     <div class="clearfix col-xs-12 col-sm-6 col-lg-7" >Each firm sends the ciphertext of its private data to the server. This ciphertext completely hides the firm's data.</div>
   </div>
  
 	  <div class="row" style="background-color:#9e9e9e;color:#fff;padding:20px;margin:10px;">
-    <div class="col-xs-12 col-sm-6 col-lg-3 " style="text-align:center;"><h3 class="h2">07</h3></div>
+    <div class="col-xs-12 col-sm-6 col-lg-3 align-middle" style="text-align:center;"><h3 class="h2">07</h3></div>
     <div class="clearfix col-xs-12 col-sm-6 col-lg-7" >The server runs computations on all the encrypted data, producing an encrypted result of the computation.</div>
   </div>
     
   	  <div class="row" style="background-color:#eeeeee;padding:20px;margin:10px;">
-    <div class="col-xs-12 col-sm-6 col-lg-3 " style="text-align:center;"><h3 class="h2">08</h3></div>
+    <div class="col-xs-12 col-sm-6 col-lg-3 align-middle" style="text-align:center;"><h3 class="h2">08</h3></div>
     <div class="clearfix col-xs-12 col-sm-6 col-lg-7" >The server sends the encrypted result back to each firm.</div>
   </div>
   
 	  <div class="row" style="background-color:#9e9e9e;color:#fff;padding:20px;margin:10px;">
-    <div class="col-xs-12 col-sm-6 col-lg-3 " style="text-align:center;"><h3 class="h2">09</h3></div>
+    <div class="col-xs-12 col-sm-6 col-lg-3 align-middle" style="text-align:center;"><h3 class="h2">09</h3></div>
     <div class="clearfix col-xs-12 col-sm-6 col-lg-7" >Each firm uses the private key they generated in Step 1 to partially decrypt the answer.</div>
   </div>
     
   	  <div class="row" style="background-color:#eeeeee;padding:20px;margin:10px;">
-    <div class="col-xs-12 col-sm-6 col-lg-3 " style="text-align:center;"><h3 class="h2">10</h3></div>
+    <div class="col-xs-12 col-sm-6 col-lg-3 align-middle" style="text-align:center;"><h3 class="h2">10</h3></div>
     <div class="clearfix col-xs-12 col-sm-6 col-lg-7" >Each firms sends this partially decrypted answer back to the server. Note that without all the partial decryption pieces from all firms, the result is still completely hidden.</div>
   </div>
   
 	  <div class="row" style="background-color:#9e9e9e;color:#fff;padding:20px;margin:10px;">
-    <div class="col-xs-12 col-sm-6 col-lg-3 " style="text-align:center;"><h3 class="h2">11</h3></div>
+    <div class="col-xs-12 col-sm-6 col-lg-3 align-middle" style="text-align:center;"><h3 class="h2">11</h3></div>
     <div class="clearfix col-xs-12 col-sm-6 col-lg-7" >The server combines the results of all the partial decryptions it receives from firms to produce the decrypted result that is then shared with all firms.</div>
   </div>
        
