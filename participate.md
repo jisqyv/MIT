@@ -38,12 +38,9 @@ sections:
       Ready to start your next project with us? Give us a call or send us an email
       and we will get back to you as soon as possible!
     actions:
-    - title: +1 617 258 6392
-      icon: fa-phone
     - title: scram@mit.edu
       icon: fa-envelope
       url: mailto:contact@scram@mit.edu
-    - title: 32 Vassar Street Cambridge, MA 02139 USA
-      icon: fa-map
+
 
 ---
