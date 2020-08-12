@@ -44,7 +44,7 @@ sections:
         image: assets/img/members/Person-Reynolds-Taylor-1-150x150.png
         url: 'https://internetpolicy.mit.edu/team/taylor-reynolds/'
       - title: Leo de Castro
-        text: 'Masters Student - Theory of Computation'
+        text: 'Ph.D. Student - Theory of Computation'
         image: assets/img/members/Person-deCastro-Leo-150x150.jpg
         url: 'https://superurop.mit.edu/scholars/leo-de-castro/'
       - title: Jeff Schiller
