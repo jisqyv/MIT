@@ -40,7 +40,7 @@ sections:
         image: assets/img/members/Person-Vaikuntanathan-Vinod-150x150.jpg
         url: 'https://simons.berkeley.edu/people/vinod-vaikuntanathan'
       - title: Taylor Reynolds
-        text: Technology Policy Director
+        text: 'Technology Policy Director - Internet Policy Research Initiative'
         image: assets/img/members/Person-Reynolds-Taylor-1-150x150.png
         url: 'https://internetpolicy.mit.edu/team/taylor-reynolds/'
       - title: Leo de Castro
