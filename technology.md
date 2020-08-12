@@ -41,7 +41,7 @@ sections:
     title: Our Proccess
     actions:
       - title: Read our research
-        url: '#'
+        url: '/MIT/research'
         class: btn-light
       - title: Understand our security 
         url: '/MIT/security'
