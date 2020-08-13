@@ -10273,18 +10273,18 @@ padding: 50px 10px;
     padding: 60px;
 }
 @media (min-width: 1200px)
-.navcontainer {
-    max-width: 1400px !important;
+.container.navcontainer {
+    max-width: 1400px;
 }
 @media (min-width: 992px)
-.navcontainer {
+.container.navcontainer {
     max-width: 960px;
 }
 @media (min-width: 768px)
-.navcontainer {
+.container.navcontainer{
     max-width: 720px;
 }
 @media (min-width: 576px)
-.navcontainer {
+.container.navcontainer {
     max-width: 540px;
 }
