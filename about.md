@@ -63,16 +63,4 @@ sections:
 
  
 
-  - type: contacthome.html
-    section_id: contactshome
-    title: Let's Get In Touch!
-    text: >-
-      Ready to start your next project with us? Give us a call or send us an email
-      and we will get back to you as soon as possible!
-    actions:
-
-    - title: scram@mit.edu
-      icon: fa-envelope
-      url: mailto:contact@scram@mit.edu
-
 ---
