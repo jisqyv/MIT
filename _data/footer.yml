@@ -1,5 +1,4 @@
-copyright: '<a href="mailto:scram@mit.edu" target="_blank">scram@mit.edu</a><br>
-<a href="https://internetpolicy.mit.edu/" target="_blank">&copy; 2020 Internet Policy Research Initiative</a>'
+copyright: '<a href="https://internetpolicy.mit.edu/" target="_blank">&copy; 2020 Internet Policy Research Initiative</a>'
 links:
   - text: Accessibility
     url: 'https://accessibility.mit.edu/'
@@ -8,4 +7,6 @@ links:
   - text: '<br>MIT Computer Science and Artificial Intelligence Lab (CSAIL)'
     url: 'https://www.csail.mit.edu/'
     new_window: true
-
+  - text: '<br>scram@mit.edu'
+    url: 'mailto:scram@mit.edu'
+    new_window: true
