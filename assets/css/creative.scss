@@ -10289,3 +10289,8 @@ div#navbarResponsive {
 width:100% !important;
 }
 }
+@media only screen and (max-width: 767px){
+a.btn.btn-xl.js-scroll-trigger.btn-light{
+margin:5px;
+}
+}
