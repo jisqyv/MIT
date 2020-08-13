@@ -10280,3 +10280,8 @@ padding: 50px 10px;
 .navcontainer {
     max-width: 1200px !important;
 }}
+@media only screen and (max-width: 991px){
+div#navbarResponsive {
+    position: relative;
+    right: -26px;
+}}
