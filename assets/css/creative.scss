@@ -10272,19 +10272,19 @@ padding: 50px 10px;
 .col-xs-12.col-sm-6.rcontent {
     padding: 60px;
 }
-@media (min-width: 1200px)
+@media (min-width: 1200px){
 .container.navcontainer {
     max-width: 1400px;
-}
-@media (min-width: 992px)
+}}
+@media (min-width: 992px){
 .container.navcontainer {
     max-width: 960px;
-}
-@media (min-width: 768px)
+}}
+@media (min-width: 768px){
 .container.navcontainer{
     max-width: 720px;
-}
-@media (min-width: 576px)
+}}
+@media (min-width: 576px){
 .container.navcontainer {
     max-width: 540px;
-}
+}}
