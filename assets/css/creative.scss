@@ -10272,3 +10272,19 @@ padding: 50px 10px;
 .col-xs-12.col-sm-6.rcontent {
     padding: 60px;
 }
+@media (min-width: 1200px)
+.navcontainer {
+    max-width: 1400px;
+}
+@media (min-width: 992px)
+.navcontainer {
+    max-width: 960px;
+}
+@media (min-width: 768px)
+.navcontainer {
+    max-width: 720px;
+}
+@media (min-width: 576px)
+.navcontainer {
+    max-width: 540px;
+}
