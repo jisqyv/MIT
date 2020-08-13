@@ -10293,4 +10293,20 @@ width:100% !important;
 a.btn.btn-xl.js-scroll-trigger.btn-light{
 margin:5px;
 }
+.paddingdesktop {
+    padding: 0;
+}
+}
+@media only screen and (max-width: 767px){
+.paddingdesktop {
+    padding: 0px 10px;
+}
+.col-xs-12.col-sm-6.lcontent {
+    border-right: 1px solid;
+    position: relative;
+    padding: 20px;
+}
+.col-xs-12.col-sm-6.rcontent {
+    padding: 20px;
+}
 }
