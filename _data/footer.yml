@@ -1,4 +1,4 @@
-copyright: '<a href="https://www.csail.mit.edu/" target="_blank"><img src="assets/img/csail-colored.png"></a><br><a href="https://www.mit.edu/" target="_blank">&copy; 2020 Massachusetts Institute of Technology</a>'
+copyright: '<a href="https://www.csail.mit.edu/" target="_blank"><img src="assets/img/csail-colored.png" styl="padding-bottom:5px;"></a><br><a href="https://www.mit.edu/" target="_blank">&copy; 2020 Massachusetts Institute of Technology</a>'
 links:
   - text: Accessibility
     url: 'https://accessibility.mit.edu/'
