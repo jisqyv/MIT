@@ -1,3 +1,21 @@
+# Instructions
+
+To build a local version (assuming you have a Ruby environment):
+
+## First Time Build
+
+* remove Gemfile.lock
+* bundle install --path=ventor/bundle
+* bundle exec jekyll b
+
+## Future Builds
+
+* bundle exec jekyll b
+
+This will build the site into “_site”
+
+The rest of this file is boilerplate for the Creative Theme for Jekyll
+
 # Creative Theme for Jekyll
 
 A Jekyll implementation of the [Creative Theme](https://startbootstrap.com/themes/creative/) template by [Start Bootstrap](https://startbootstrap.com).
