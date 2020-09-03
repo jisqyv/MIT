@@ -41,10 +41,10 @@ sections:
     title: Our Proccess
     actions:
       - title: Read our research
-        url: '/MIT/research'
+        url: '/research'
         class: btn-light
       - title: Understand our security 
-        url: '/MIT/security'
+        url: '/security'
         class: btn-light
       - title: Evaluate our code 
         url: 'https://github.com/CSAIL/ipri-scram'
